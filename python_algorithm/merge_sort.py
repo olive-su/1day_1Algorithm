@@ -1,4 +1,5 @@
 def merge(list1, list2):
+
     merge_list = []
     i = 0
     j = 0

@@ -4,9 +4,7 @@ def trapping_rain(buildings):
     for i in range(1, len(buildings) - 1):
         left_height = max(buildings[:i])
         right_height = max(buildings[i:])
-
         lower_height = min(left_height, right_height)
-
         rain_amount += max(0, lower_height - buildings[i])
 
     return rain_amount

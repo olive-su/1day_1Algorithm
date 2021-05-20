@@ -10,12 +10,14 @@ def merge(list1, list2):
         else:
             merge_list.append(list2[j])
             j+=1
+    # 두 리스트 중 한 리스트 모두 소진 시, 다른 리스트 합체
     if (i == len(list1)):
         return merge_list + list2[j:]
     else:
         return merge_list + list1[i:]
     return merge_list
     
+# 테스트
 print(merge([1],[]))
 print(merge([],[1]))
 print(merge([2],[1]))

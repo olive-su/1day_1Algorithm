@@ -7,6 +7,8 @@ def closest_pair(coordinates):
     optimal_destination = [coordinates[0], coordinates[1]]
     for i in range(len(coordinates)-1):
         for j in range(i + 1, len(coordinates)):
+
+            # 더 가까운 매장을 찾을 시, 업데이트
             if distance(optimal_destination[0], optimal_destination[1]) > distance(coordinates[i], coordinates[j]):
                 optimal_destination = [coordinates[i], coordinates[j]]
     return optimal_destination

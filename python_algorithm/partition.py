@@ -1,4 +1,3 @@
-
 def swap_elements(my_list, index1, index2):
 
 

@@ -1,6 +1,9 @@
 def sublist_max(profits):
+    # 초기값 설정을 위해 임의로 인덱스 0의 값을 할당함
     max_profit = profits[0]
+    # 최대 범위 인덱스 값 증가
     for i in range(len(profits) + 1):
+        # 최소 범위 인덱스 값 증가
         for j in range(len(profits) + 1):
             if max_profit < sum(profits[i:j]):
                 max_profit = sum(profits[i:j])

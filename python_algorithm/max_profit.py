@@ -1,7 +1,9 @@
 def max_profit(stock_list):
     profit = stock_list[1] - stock_list[0]
     for i in range(len(stock_list)-2):
+        # i 인덱스 뒤에 있는 값들을 내림차순으로 정렬한 뒤 최댓값 추출
         sorting_list = sorted(stock_list[i + 1 : len(stock_list)-1], reverse = True)
+        # max로 수익 최대값 갱신
         profit = max(profit, sorting_list[0] - stock_list[i])
     return profit
 

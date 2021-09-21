@@ -12,6 +12,6 @@ def solution(word):
                 string.pop()
             string[-1] = alphabet[rev_alphabet[string[-1]] + 1]
         else:
-            string[-1] = alphabet[list(alphabet.values()).index(string[-1]) + 1]
+            string[-1] = alphabet[rev_alphabet[string[-1]] + 1]
         if string == list(word):
             return cnt

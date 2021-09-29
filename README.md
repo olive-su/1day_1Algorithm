@@ -1,38 +1,50 @@
 # 📖 1day_1Algorithm
+- 2021년 5월부터 매일 알고리즘 문제 한 문제씩 풀고 기록해놓는 레포지토리입니다.
+- 모두 Python을 이용해서 푼 문제들입니다.
+- 자세한 풀이 및 문제 출처는 블로그에 기록해두었습니다! 블로그 링크를 참고해주세요!
 
-## 1일 1알고리즘 기록(2021.05.01 시작❣)
+### 1일 1알고리즘 기록(2021.05.01 시작❣)
+<details>
+<summary> 2021년 5월의 문제 풀이 기록 </summary>
+  
+  | 날짜  | 문제이름                  | 풀이                                                         |
+| ----- | ------------------------- | ------------------------------------------------------------ |
+| 05/01 | 팔린드롬 문제             | ![badge](https://img.shields.io/static/v1?label=[알고리즘_일기]_1._팔린드롬_문제&message=Blog&Link&style=social&logo=Iconify&link=https://olive-su.tistory.com/5) |
+| 05/02 | 피보나치 수열             | ![badge](https://img.shields.io/static/v1?label=[알고리즘_일기]_2._피보나치_수열&message=Blog&Link&style=social&logo=Iconify&link=https://olive-su.tistory.com/12) |
+| 05/03 | 숫자 합, 자릿수 합        | ![badge](https://img.shields.io/static/v1?label=[알고리즘_일기]_3.숫자_합,_자릿수_합&message=Blog&Link&style=social&logo=Iconify&link=https://olive-su.tistory.com/20) |
+| 05/04 | 이진 탐색 구현_재귀       | ![badge](https://img.shields.io/static/v1?label=[알고리즘_일기]_4._이진_탐색_구현_알고리즘(재귀)&message=Blog&Link&style=social&logo=Iconify&link=https://olive-su.tistory.com/21) |
+| 05/05 | 하노이의 탑               | ![badge](https://img.shields.io/static/v1?label=[알고리즘_일기]_5._하노이의_탑&message=Blog&Link&style=social&logo=Iconify&link=https://olive-su.tistory.com/22) |
+| 05/06 | 선형 탐색 구현            | ![badge](https://img.shields.io/static/v1?label=[알고리즘_일기]_6._선형_탐색_구현&message=Blog&Link&style=social&logo=Iconify&link=https://olive-su.tistory.com/24) |
+| 05/07 | 이진 탐색 구현            | ![badge](https://img.shields.io/static/v1?label=[알고리즘_일기]_7._이진_탐색_구현&message=Blog&Link&style=social&logo=Iconify&link=https://olive-su.tistory.com/25) |
+| 05/08 | 카드 뭉치 최대 조합       | ![badge](https://img.shields.io/static/v1?label=[알고리즘_일기]_8._카드_뭉치_최대_조합&message=Blog&Link&style=social&logo=Iconify&link=https://olive-su.tistory.com/27) |
+| 05/09 | 가까운 매장 찾기          | ![badge](https://img.shields.io/static/v1?label=[알고리즘_일기]_9._가까운_매장_찾기&message=Blog&Link&style=social&logo=Iconify&link=https://olive-su.tistory.com/28) |
+| 05/10 | 강남역 폭우               | ![badge](https://img.shields.io/static/v1?label=[알고리즘_일기]_10._강남역_폭우&message=Blog&Link&style=social&logo=Iconify&link=https://olive-su.tistory.com/29) |
+| 05/11 | 1부터 n까지의 합          | ![badge](https://img.shields.io/static/v1?label=[알고리즘_일기]_11._1부터_n까지의_합&message=Blog&Link&style=social&logo=Iconify&link=https://olive-su.tistory.com/30) |
+| 05/12 | 합병 정렬1                | ![badge](https://img.shields.io/static/v1?label=[알고리즘_일기]_12._합병_정렬(1)&message=Blog&Link&style=social&logo=Iconify&link=https://olive-su.tistory.com/32) |
+| 05/13 | 합병 정렬2                | ![badge](https://img.shields.io/static/v1?label=[알고리즘_일기]_13._합병_정렬(2)&message=Blog&Link&style=social&logo=Iconify&link=https://olive-su.tistory.com/33) |
+| 05/14 | 퀵 정렬1                  | ![badge](https://img.shields.io/static/v1?label=[알고리즘_일기]_14._퀵_정렬(1)&message=Blog&Link&style=social&logo=Iconify&link=https://olive-su.tistory.com/35) |
+| 05/15 | 퀵 정렬2                  | ![badge](https://img.shields.io/static/v1?label=[알고리즘_일기]_15._퀵_정렬(2)&message=Blog&Link&style=social&logo=Iconify&link=https://olive-su.tistory.com/36) |
+| 05/16 | 퀵 정렬3                  | ![badge](https://img.shields.io/static/v1?label=[알고리즘_일기]_16._퀵_정렬(3)&message=Blog&Link&style=social&logo=Iconify&link=https://olive-su.tistory.com/39) |
+| 05/17 | 피보나치 수열_Memoization | ![badge](https://img.shields.io/static/v1?label=[알고리즘_일기]_17._피보나치_수열(Memoization)&message=Blog&Link&style=social&logo=Iconify&link=https://olive-su.tistory.com/42) |
+| 05/18 | 피보나치 수열_Tabulation  | ![badge](https://img.shields.io/static/v1?label=[알고리즘_일기]_18._피보나치_수열(Tabulation)&message=Blog&Link&style=social&logo=Iconify&link=https://olive-su.tistory.com/43) |
+| 05/19 | 피보나치 수열_최적화      | ![badge](https://img.shields.io/static/v1?label=[알고리즘_일기]_19.피보나치_수열(최적화)&message=Blog&Link&style=social&logo=Iconify&link=https://olive-su.tistory.com/44) |
+| 05/20 | 최대 수익_Memoization     | ![badge](https://img.shields.io/static/v1?label=[알고리즘_일기]_20._최대_수익(Memoization)&message=Blog&Link&style=social&logo=Iconify&link=https://olive-su.tistory.com/45) |
+| 05/21 | 최대 수익_Tabulation      | ![badge](https://img.shields.io/static/v1?label=[알고리즘_일기]_21._최대_수익(Tabulation)&message=Blog&Link&style=social&logo=Iconify&link=https://olive-su.tistory.com/46) |
+| 05/22 | 최소 조합                 | ![badge](https://img.shields.io/static/v1?label=[알고리즘_일기]_22._최소_동전으로_거슬러주기&message=Blog&Link&style=social&logo=Iconify&link=https://olive-su.tistory.com/47) |
+| 05/23 | 최대 곱                   | ![badge](https://img.shields.io/static/v1?label=[알고리즘_일기]_23._최대_곱_구하기&message=Blog&Link&style=social&logo=Iconify&link=https://olive-su.tistory.com/45) |
+| 05/24 | 지각 벌금 적게 내기       | ![badge](https://img.shields.io/static/v1?label=[알고리즘_일기]_24._지각_벌금_적게_내기&message=Blog&Link&style=social&logo=Iconify&link=https://olive-su.tistory.com/51) |
+| 05/25 | 수강 신청 분석            | ![badge](https://img.shields.io/static/v1?label=[알고리즘_일기]_25._수강_신청_분석&message=Blog&Link&style=social&logo=Iconify&link=https://olive-su.tistory.com/52) |
+| 05/26 | 최소 대금                 | ![badge](https://img.shields.io/static/v1?label=[알고리즘_일기]_26._최소_대금&message=Blog&Link&style=social&logo=Iconify&link=https://olive-su.tistory.com/56) |
+| 05/27 | 디지털 도어락             | ![badge](https://img.shields.io/static/v1?label=[알고리즘_일기]_27._디지털_도어락&message=Blog&Link&style=social&logo=Iconify&link=https://olive-su.tistory.com/59) |
+| 05/28 | 먹을 것인가 먹힐 것인가   | ![badge](https://img.shields.io/static/v1?label=[알고리즘_일기]_28._먹을_것인가_먹힐_것인가&message=Blog&Link&style=social&logo=Iconify&link=https://olive-su.tistory.com/60) |
+| 05/29 | 삼각화단 만들기           | ![badge](https://img.shields.io/static/v1?label=[알고리즘_일기]_29._삼각화단_만들기(Small)&message=Blog&Link&style=social&logo=Iconify&link=https://olive-su.tistory.com/61) |
+| 05/30 | 최대공약수 구하기         | ![badge](https://img.shields.io/static/v1?label=[알고리즘_일기]_30._최대_공약수_구하기&message=Blog&Link&style=social&logo=Iconify&link=https://olive-su.tistory.com/62) |
+| 05/31 | 한수                      | ![badge](https://img.shields.io/static/v1?label=[알고리즘_일기]_31._한수&message=Blog&Link&style=social&logo=Iconify&link=https://olive-su.tistory.com/63) |
 
-1. 팔린드롬 문제(05/01)
-2. 피보나치 수열(05/02)
-3. 숫자 합, 자릿수 합(05/03)
-4. 이진 탐색 구현_재귀(05/04)
-5. 하노이의 탑(05/05)
-6. 선형 탐색 구현(05/06)
-7. 이진 탐색 구현(05/07)
-8. 카드 뭉치 최대 조합(05/08)
-9. 가까운 매장 찾기(05/09)
-10. 강남역 폭우(05/10)
-11. 1부터 n까지의 합(05/11)
-12. 합병 정렬1(05/12)
-13. 합병 정렬2(05/13)
-14. 퀵 정렬1(05/14)
-15. 퀵 정렬2(05/15)
-16. 퀵 정렬3(05/16)
-17. 피보나치 수열_Memoization(05/17)
-18. 피보나치 수열_Tabulation(05/18)
-19. 피보나치 수열_최적화(05/19)
-20. 최대 수익_Memoization(05/20)
-21. 최대 수익_Tabulation(05/21)
-22. 최소 조합(05/22)
-23. 최대 곱(05/23)
-24. 지각 벌금 적게 내기(05/24)
-25. 수강 신청 분석(05/25)
-26. 최소 대금(05/26) - 코드업 2001
-27. 디지털 도어락(05/27) - 코드업 2650
-28. 먹을 것인가 먹힐 것인가(05/28) - 백준 7795
-29. 삼각화단 만들기(small)(05/29) - 코드업 2625
-30. 최대공약수 구하기(05/30) - 코드업 2623
-31. 한수(05/31) - 백준 1065
+  
+</details>
+
+
 32. 전자레인지(06/01) - 백준10162
 33. 투자 귀재 규식이1(06/02)
 34. 거듭제곱 빨리 계산하기(06/03)

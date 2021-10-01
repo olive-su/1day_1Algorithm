@@ -10,5 +10,4 @@ for _ in range(n):
     m = int(input())
     for k in range(6, m+1):
         dp[k] = dp[k-1] + dp[k-5] 
-print(dp[m])
-
+    print(dp[m])

@@ -199,7 +199,7 @@
 | 09/22 | DFS와 BFS                 | [![badge](https://img.shields.io/static/v1?label=[알고리즘_일기]_145._DFS와_BFS&message=Blog&style=social&logo=Iconify&link=https://olive-su.tistory.com/205)](https://olive-su.tistory.com/205) |
 | 09/23 |피보나치 함수                        | [![badge](https://img.shields.io/static/v1?label=[알고리즘_일기]_146._피보나치_함수&message=Blog&style=social&logo=Iconify&link=https://olive-su.tistory.com/206)](https://olive-su.tistory.com/206) |
 | 09/24 | 없는 숫자 더하기           |[![badge](https://img.shields.io/static/v1?label=[알고리즘_일기]_147._없는_숫자_더하기&message=Blog&style=social&logo=Iconify&link=https://olive-su.tistory.com/207)](https://olive-su.tistory.com/207)|
-| 09/25 |                       |  |
+| 09/25 |   파도반 수열           | ![badge](https://img.shields.io/static/v1?label=[알고리즘_일기]_148.파도반_수열&message=Blog&style=social&logo=Iconify&link=https://olive-su.tistory.com/212)](https://olive-su.tistory.com/212) |
 | 09/26 |                   | |
 | 09/27 |         | |
 | 09/28 |                  |  |

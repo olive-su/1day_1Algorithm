@@ -186,7 +186,7 @@
 | 09/09 | 공유기 설치     |[![badge](https://img.shields.io/static/v1?label=[알고리즘_일기]_132._공유기_설치&message=Blog&style=social&logo=Iconify&link=https://olive-su.tistory.com/187)](https://olive-su.tistory.com/187) |
 | 09/10 | 벌집                |[![badge](https://img.shields.io/static/v1?label=[알고리즘_일기]_133._벌집&message=Blog&style=social&logo=Iconify&link=https://olive-su.tistory.com/188)](https://olive-su.tistory.com/188) |
 | 09/11 |예산                | [![badge](https://img.shields.io/static/v1?label=[알고리즘_일기]_134._예산&message=Blog&style=social&logo=Iconify&link=https://olive-su.tistory.com/189)](https://olive-su.tistory.com/189) |
-| 09/12 |문자열 폭발                | [![badge](https://img.shields.io/static/v1?label=[알고리즘_일기]_135._문자열_폭발&message=Blog&style=social&logo=Iconify&link=https://olive-su.tistory.com/190)](https://olive-su.tistory.com/190) |
+| 09/12 |문자열 폭발                | [![badge](https://img.shields.io/static/v1?label=[알고리즘_일기]_135._문자열_폭발&message=Blog&style=social&logo=Iconify&link=olive-su.tistory.com/190)](https://olive-su.tistory.com/190) |
 | 09/13 | 더하기 사이클        | [![badge](https://img.shields.io/static/v1?label=[알고리즘_일기]_136._더하기_사이클&message=Blog&style=social&logo=Iconify&link=https://olive-su.tistory.com/191)](https://olive-su.tistory.com/191)|
 | 09/14 | 듣보잡       | [![badge](https://img.shields.io/static/v1?label=[알고리즘_일기]_137._듣보잡&message=Blog&style=social&logo=Iconify&link=https://olive-su.tistory.com/192)](https://olive-su.tistory.com/192) |
 | 09/15 | 다이얼                        |[![badge](https://img.shields.io/static/v1?label=[알고리즘_일기]_138._다이얼&message=Blog&style=social&logo=Iconify&link=https://olive-su.tistory.com/193)](https://olive-su.tistory.com/193) |

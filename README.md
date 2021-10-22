@@ -202,7 +202,7 @@
 | 09/25 |   파도반 수열           | [![badge](https://img.shields.io/static/v1?label=[알고리즘_일기]_148._파도반_수열&message=Blog&style=social&logo=Iconify&link=https://olive-su.tistory.com/212)](https://olive-su.tistory.com/212) |
 | 09/26 |   접미사 배열      | |
 | 09/27 |  링 | |
-| 09/28 |    |  |
+| 09/28 |  키로거 |  |
 | 09/29 |                 |  |
 | 09/30 |               | |
   

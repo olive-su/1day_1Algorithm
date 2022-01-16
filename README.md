@@ -2,6 +2,10 @@
 - 2021년 5월부터 매일 알고리즘 문제 한 문제씩 풀고 기록해놓는 레포지토리입니다.
 - 모두 Python을 이용해서 푼 문제들입니다.
 - 자세한 풀이 및 문제 출처는 블로그에 기록해두었습니다! 블로그 링크를 참고해주세요!
+<br>
+
+- update : 2022년 1월 16일 다시 시작..!👊
+<br>
 
 ### 1일 1알고리즘 기록(2021.05.01 시작❣)
 <details>
@@ -200,10 +204,35 @@
 | 09/23 |피보나치 함수                        | [![badge](https://img.shields.io/static/v1?label=[알고리즘_일기]_146._피보나치_함수&message=Blog&style=social&logo=Iconify&link=https://olive-su.tistory.com/206)](https://olive-su.tistory.com/206) |
 | 09/24 | 없는 숫자 더하기           |[![badge](https://img.shields.io/static/v1?label=[알고리즘_일기]_147._없는_숫자_더하기&message=Blog&style=social&logo=Iconify&link=https://olive-su.tistory.com/207)](https://olive-su.tistory.com/207)|
 | 09/25 |   파도반 수열           | [![badge](https://img.shields.io/static/v1?label=[알고리즘_일기]_148._파도반_수열&message=Blog&style=social&logo=Iconify&link=https://olive-su.tistory.com/212)](https://olive-su.tistory.com/212) |
-| 09/26 |   접미사 배열      | |
-| 09/27 |  링 | |
-| 09/28 |  팩토리얼 |  |
-| 09/29 |    계단오르기    |  |
-| 09/30 |   키로거   | |
+| 09/26 |   접미사 배열      | ![badge](https://img.shields.io/static/v1?label=[알고리즘_일기]_149._접미사_배열&message=Blog&style=social&logo=Iconify&link=https://olive-su.tistory.com/213)](https://olive-su.tistory.com/213)|
+| 09/27 |  링 |![badge](https://img.shields.io/static/v1?label=[알고리즘_일기]_150._링&message=Blog&style=social&logo=Iconify&link=https://olive-su.tistory.com/214)](https://olive-su.tistory.com/214) |
+| 09/28 |  팩토리얼 |![badge](https://img.shields.io/static/v1?label=[알고리즘_일기]_151._팩토리얼&message=Blog&style=social&logo=Iconify&link=https://olive-su.tistory.com/215)](https://olive-su.tistory.com/215) |
+| 09/29 |    계단오르기    | ![badge](https://img.shields.io/static/v1?label=[알고리즘_일기]_152._계단오르기&message=Blog&style=social&logo=Iconify&link=https://olive-su.tistory.com/216)](https://olive-su.tistory.com/216) |
+| 09/30 |   키로거   |![badge](https://img.shields.io/static/v1?label=[알고리즘_일기]_153._키로거&message=Blog&style=social&logo=Iconify&link=https://olive-su.tistory.com/217)](https://olive-su.tistory.com/217) |
   
 </details>
+
+<details>
+<summary> 2022년 1월) 문제 풀이 기록 </summary>
+
+ | 날짜  | 문제이름                    | 풀이                                                         |
+| ----- | --------------------------- | ------------------------------------------------------------ |
+| 01/16 |  곱하기 혹은 더하기  | ![badge](https://img.shields.io/static/v1?label=[알고리즘_일기]_154._곱하기_혹은_더하기&message=Blog&style=social&logo=Iconify&link=https://olive-su.tistory.com/251)](https://olive-su.tistory.com/251) |
+| 01/17 |    ||
+| 01/18 |    ||
+| 01/19 |    ||
+| 01/20 |    ||
+| 01/21 |    ||
+| 01/22 |    ||
+| 01/23 |    ||
+| 01/24 |    ||
+| 01/25 |    ||
+| 01/26 |    ||
+| 01/27 |    ||
+| 01/28 |    ||
+| 01/29 |    ||
+| 01/30 |    ||
+| 01/31 |    ||
+  
+</details>
+

@@ -204,11 +204,11 @@
 | 09/23 |피보나치 함수                        | [![badge](https://img.shields.io/static/v1?label=[알고리즘_일기]_146._피보나치_함수&message=Blog&style=social&logo=Iconify&link=https://olive-su.tistory.com/206)](https://olive-su.tistory.com/206) |
 | 09/24 | 없는 숫자 더하기           |[![badge](https://img.shields.io/static/v1?label=[알고리즘_일기]_147._없는_숫자_더하기&message=Blog&style=social&logo=Iconify&link=https://olive-su.tistory.com/207)](https://olive-su.tistory.com/207)|
 | 09/25 |   파도반 수열           | [![badge](https://img.shields.io/static/v1?label=[알고리즘_일기]_148._파도반_수열&message=Blog&style=social&logo=Iconify&link=https://olive-su.tistory.com/212)](https://olive-su.tistory.com/212) |
-| 09/26 |   접미사 배열      | ![badge](https://img.shields.io/static/v1?label=[알고리즘_일기]_149._접미사_배열&message=Blog&style=social&logo=Iconify&link=https://olive-su.tistory.com/213)](https://olive-su.tistory.com/213)|
-| 09/27 |  링 |![badge](https://img.shields.io/static/v1?label=[알고리즘_일기]_150._링&message=Blog&style=social&logo=Iconify&link=https://olive-su.tistory.com/214)](https://olive-su.tistory.com/214) |
-| 09/28 |  팩토리얼 |![badge](https://img.shields.io/static/v1?label=[알고리즘_일기]_151._팩토리얼&message=Blog&style=social&logo=Iconify&link=https://olive-su.tistory.com/215)](https://olive-su.tistory.com/215) |
-| 09/29 |    계단오르기    | ![badge](https://img.shields.io/static/v1?label=[알고리즘_일기]_152._계단오르기&message=Blog&style=social&logo=Iconify&link=https://olive-su.tistory.com/216)](https://olive-su.tistory.com/216) |
-| 09/30 |   키로거   |![badge](https://img.shields.io/static/v1?label=[알고리즘_일기]_153._키로거&message=Blog&style=social&logo=Iconify&link=https://olive-su.tistory.com/217)](https://olive-su.tistory.com/217) |
+| 09/26 |   접미사 배열      | [![badge](https://img.shields.io/static/v1?label=[알고리즘_일기]_149._접미사_배열&message=Blog&style=social&logo=Iconify&link=https://olive-su.tistory.com/213)](https://olive-su.tistory.com/213)|
+| 09/27 |  링 |[![badge](https://img.shields.io/static/v1?label=[알고리즘_일기]_150._링&message=Blog&style=social&logo=Iconify&link=https://olive-su.tistory.com/214)](https://olive-su.tistory.com/214) |
+| 09/28 |  팩토리얼 |[![badge](https://img.shields.io/static/v1?label=[알고리즘_일기]_151._팩토리얼&message=Blog&style=social&logo=Iconify&link=https://olive-su.tistory.com/215)](https://olive-su.tistory.com/215) |
+| 09/29 |    계단오르기    | [![badge](https://img.shields.io/static/v1?label=[알고리즘_일기]_152._계단오르기&message=Blog&style=social&logo=Iconify&link=https://olive-su.tistory.com/216)](https://olive-su.tistory.com/216) |
+| 09/30 |   키로거   |[![badge](https://img.shields.io/static/v1?label=[알고리즘_일기]_153._키로거&message=Blog&style=social&logo=Iconify&link=https://olive-su.tistory.com/217)](https://olive-su.tistory.com/217) |
   
 </details>
 
@@ -217,7 +217,7 @@
 
  | 날짜  | 문제이름                    | 풀이                                                         |
 | ----- | --------------------------- | ------------------------------------------------------------ |
-| 01/16 |  곱하기 혹은 더하기  | ![badge](https://img.shields.io/static/v1?label=[알고리즘_일기]_154._곱하기_혹은_더하기&message=Blog&style=social&logo=Iconify&link=https://olive-su.tistory.com/251)](https://olive-su.tistory.com/251) |
+| 01/16 |  곱하기 혹은 더하기  | [![badge](https://img.shields.io/static/v1?label=[알고리즘_일기]_154._곱하기_혹은_더하기&message=Blog&style=social&logo=Iconify&link=https://olive-su.tistory.com/251)](https://olive-su.tistory.com/251) |
 | 01/17 |    ||
 | 01/18 |    ||
 | 01/19 |    ||

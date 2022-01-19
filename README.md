@@ -219,8 +219,8 @@
 | ----- | --------------------------- | ------------------------------------------------------------ |
 | 01/16 |  곱하기 혹은 더하기  | [![badge](https://img.shields.io/static/v1?label=[알고리즘_일기]_154._곱하기_혹은_더하기&message=Blog&style=social&logo=Iconify&link=https://olive-su.tistory.com/251)](https://olive-su.tistory.com/251) |
 | 01/17 |  모험가 길드  | [![badge](https://img.shields.io/static/v1?label=[알고리즘_일기]_155._모험가_길드&message=Blog&style=social&logo=Iconify&link=https://olive-su.tistory.com/254)](https://olive-su.tistory.com/254) |
-| 01/18 |    ||
-| 01/19 |    ||
+| 01/18 |  뒤집기  |[![badge](https://img.shields.io/static/v1?label=[알고리즘_일기]_156._뒤집기&message=Blog&style=social&logo=Iconify&link=https://olive-su.tistory.com/255)](https://olive-su.tistory.com/255)|
+| 01/19 |  만들 수 없는 금액  |[![badge](https://img.shields.io/static/v1?label=[알고리즘_일기]_157._만들_수_없는_금액&message=Blog&style=social&logo=Iconify&link=https://olive-su.tistory.com/256)](https://olive-su.tistory.com/256)|
 | 01/20 |    ||
 | 01/21 |    ||
 | 01/22 |    ||

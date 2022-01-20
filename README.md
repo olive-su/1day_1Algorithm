@@ -1,10 +1,11 @@
 # 📖 1day_1Algorithm
-- 2021년 5월부터 매일 알고리즘 문제 한 문제씩 풀고 기록해놓는 레포지토리입니다.
-- 모두 Python을 이용해서 푼 문제들입니다.
-- 자세한 풀이 및 문제 출처는 블로그에 기록해두었습니다! 블로그 링크를 참고해주세요!
+- Develop Language : Python
+- 자세한 풀이 및 문제 출처 : 문제별 블로그 링크 참고 😀
 <br>
 
-- update : 2022년 1월 16일 다시 시작..!👊
+- v1.0 : 2021.05. ~ 2021.09.
+- v2.0 : 2022.01.16. ~ ✏️
+
 <br>
 
 ### 1일 1알고리즘 기록(2021.05.01 시작❣)
@@ -221,7 +222,8 @@
 | 01/17 |  모험가 길드  | [![badge](https://img.shields.io/static/v1?label=[알고리즘_일기]_155._모험가_길드&message=Blog&style=social&logo=Iconify&link=https://olive-su.tistory.com/254)](https://olive-su.tistory.com/254) |
 | 01/18 |  뒤집기  |[![badge](https://img.shields.io/static/v1?label=[알고리즘_일기]_156._뒤집기&message=Blog&style=social&logo=Iconify&link=https://olive-su.tistory.com/255)](https://olive-su.tistory.com/255)|
 | 01/19 |  만들 수 없는 금액  |[![badge](https://img.shields.io/static/v1?label=[알고리즘_일기]_157._만들_수_없는_금액&message=Blog&style=social&logo=Iconify&link=https://olive-su.tistory.com/256)](https://olive-su.tistory.com/256)|
-| 01/20 |    ||
+| 01/20 |  럭키 스트레이트  |[![badge](https://img.shields.io/static/v1?label=[알고리즘_일기]_158._럭키_스트레이트&message=Blog&style=social&logo=Iconify&link=https://olive-su.tistory.com/257)](https://olive-su.tistory.com/257)|
+|  |  문자열 재정렬  |[![badge](https://img.shields.io/static/v1?label=[알고리즘_일기]_159._럭키_스트레이트&message=Blog&style=social&logo=Iconify&link=https://olive-su.tistory.com/258)](https://olive-su.tistory.com/258)|
 | 01/21 |    ||
 | 01/22 |    ||
 | 01/23 |    ||

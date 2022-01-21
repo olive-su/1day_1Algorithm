@@ -225,7 +225,7 @@
 | 01/19 |  만들 수 없는 금액  |[![badge](https://img.shields.io/static/v1?label=[알고리즘_일기]_157._만들_수_없는_금액&message=Blog&style=social&logo=Iconify&link=https://olive-su.tistory.com/256)](https://olive-su.tistory.com/256)|
 | 01/20 |  럭키 스트레이트  |[![badge](https://img.shields.io/static/v1?label=[알고리즘_일기]_158._럭키_스트레이트&message=Blog&style=social&logo=Iconify&link=https://olive-su.tistory.com/257)](https://olive-su.tistory.com/257)|
 |  |  문자열 재정렬  |[![badge](https://img.shields.io/static/v1?label=[알고리즘_일기]_159._문자열_재정렬&message=Blog&style=social&logo=Iconify&link=https://olive-su.tistory.com/258)](https://olive-su.tistory.com/258)|
-| 01/21 |    ||
+| 01/21 |    |[![badge](https://img.shields.io/static/v1?label=[알고리즘_일기]_160._국영수&message=Blog&style=social&logo=Iconify&link=https://olive-su.tistory.com/259)](https://olive-su.tistory.com/259)|
 | 01/22 |    ||
 | 01/23 |    ||
 | 01/24 |    ||

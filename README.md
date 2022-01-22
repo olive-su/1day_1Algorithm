@@ -226,7 +226,7 @@
 | 01/20 |  럭키 스트레이트  |[![badge](https://img.shields.io/static/v1?label=[알고리즘_일기]_158._럭키_스트레이트&message=Blog&style=social&logo=Iconify&link=https://olive-su.tistory.com/257)](https://olive-su.tistory.com/257)|
 |  |  문자열 재정렬  |[![badge](https://img.shields.io/static/v1?label=[알고리즘_일기]_159._문자열_재정렬&message=Blog&style=social&logo=Iconify&link=https://olive-su.tistory.com/258)](https://olive-su.tistory.com/258)|
 | 01/21 |  국영수  |[![badge](https://img.shields.io/static/v1?label=[알고리즘_일기]_160._국영수&message=Blog&style=social&logo=Iconify&link=https://olive-su.tistory.com/259)](https://olive-su.tistory.com/259)|
-| 01/22 |    ||
+| 01/22 |  팩토리얼 0의 개수  |[![badge](https://img.shields.io/static/v1?label=[알고리즘_일기]_161._팩토리얼_0의_개수&message=Blog&style=social&logo=Iconify&link=https://olive-su.tistory.com/260)](https://olive-su.tistory.com/260)|
 | 01/23 |    ||
 | 01/24 |    ||
 | 01/25 |    ||

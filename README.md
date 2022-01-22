@@ -227,7 +227,7 @@
 |  |  문자열 재정렬  |[![badge](https://img.shields.io/static/v1?label=[알고리즘_일기]_159._문자열_재정렬&message=Blog&style=social&logo=Iconify&link=https://olive-su.tistory.com/258)](https://olive-su.tistory.com/258)|
 | 01/21 |  국영수  |[![badge](https://img.shields.io/static/v1?label=[알고리즘_일기]_160._국영수&message=Blog&style=social&logo=Iconify&link=https://olive-su.tistory.com/259)](https://olive-su.tistory.com/259)|
 | 01/22 |  팩토리얼 0의 개수  |[![badge](https://img.shields.io/static/v1?label=[알고리즘_일기]_161._팩토리얼_0의_개수&message=Blog&style=social&logo=Iconify&link=https://olive-su.tistory.com/260)](https://olive-su.tistory.com/260)|
-| 01/23 |    ||
+| 01/23 |  비밀번호 찾기  |[![badge](https://img.shields.io/static/v1?label=[알고리즘_일기]_162._비밀번호_찾기&message=Blog&style=social&logo=Iconify&link=https://olive-su.tistory.com/261)](https://olive-su.tistory.com/261)|
 | 01/24 |    ||
 | 01/25 |    ||
 | 01/26 |    ||

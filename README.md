@@ -230,7 +230,7 @@
 | 01/23 |  비밀번호 찾기  |[![badge](https://img.shields.io/static/v1?label=[알고리즘_일기]_162._비밀번호_찾기&message=Blog&style=social&logo=Iconify&link=https://olive-su.tistory.com/261)](https://olive-su.tistory.com/261)|
 | 01/24 |  문자열 압축_2  |[![badge](https://img.shields.io/static/v1?label=[알고리즘_일기]_163._문자열_압축_2&message=Blog&style=social&logo=Iconify&link=https://olive-su.tistory.com/263)](https://olive-su.tistory.com/263)|
 | 01/25 |  안테나  |[![badge](https://img.shields.io/static/v1?label=[알고리즘_일기]_164._안테나&message=Blog&style=social&logo=Iconify&link=https://olive-su.tistory.com/264)](https://olive-su.tistory.com/264)|
-| 01/26 |  연구소  |[![badge](https://img.shields.io/static/v1?label=[알고리즘_일기]_165._연구소&message=Blog&style=social&logo=Iconify&link=https://olive-su.tistory.com/265)](https://olive-su.tistory.com/265)|
+| 01/26 |  연구소  |[![badge](https://img.shields.io/static/v1?label=[알고리즘_일기]_165._연구소&message=Blog&style=social&logo=Iconify&link=https://olive-su.tistory.com/266)](https://olive-su.tistory.com/266)|
 | 01/27 |    ||
 | 01/28 |    ||
 | 01/29 |    ||

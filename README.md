@@ -231,7 +231,7 @@
 | 01/24 |  문자열 압축_2  |[![badge](https://img.shields.io/static/v1?label=[알고리즘_일기]_163._문자열_압축_2&message=Blog&style=social&logo=Iconify&link=https://olive-su.tistory.com/263)](https://olive-su.tistory.com/263)|
 | 01/25 |  안테나  |[![badge](https://img.shields.io/static/v1?label=[알고리즘_일기]_164._안테나&message=Blog&style=social&logo=Iconify&link=https://olive-su.tistory.com/264)](https://olive-su.tistory.com/264)|
 | 01/26 |  연구소  |[![badge](https://img.shields.io/static/v1?label=[알고리즘_일기]_165._연구소&message=Blog&style=social&logo=Iconify&link=https://olive-su.tistory.com/266)](https://olive-su.tistory.com/266)|
-| 01/27 |    ||
+| 01/27 |  카드 정렬하기 |[![badge](https://img.shields.io/static/v1?label=[알고리즘_일기]_166._카드_정렬하기&message=Blog&style=social&logo=Iconify&link=https://olive-su.tistory.com/267)](https://olive-su.tistory.com/267)|
 | 01/28 |    ||
 | 01/29 |    ||
 | 01/30 |    ||

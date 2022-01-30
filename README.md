@@ -234,7 +234,7 @@
 | 01/27 |  카드 정렬하기 |[![badge](https://img.shields.io/static/v1?label=[알고리즘_일기]_166._카드_정렬하기&message=Blog&style=social&logo=Iconify&link=https://olive-su.tistory.com/267)](https://olive-su.tistory.com/267)|
 | 01/28 |  특정 거리의 도시 찾기  |[![badge](https://img.shields.io/static/v1?label=[알고리즘_일기]_167._특정_거리의_도시_찾기&message=Blog&style=social&logo=Iconify&link=https://olive-su.tistory.com/268)](https://olive-su.tistory.com/268)|
 | 01/29 |  유기농 배추  |[![badge](https://img.shields.io/static/v1?label=[알고리즘_일기]_168._유기농_배추&message=Blog&style=social&logo=Iconify&link=https://olive-su.tistory.com/269)](https://olive-su.tistory.com/269)|
-| 01/30 |    ||
+| 01/30 |  숨바꼭질   |[![badge](https://img.shields.io/static/v1?label=[알고리즘_일기]_169._숨바꼭질&message=Blog&style=social&logo=Iconify&link=https://olive-su.tistory.com/270)](https://olive-su.tistory.com/270|
 | 01/31 |    ||
   
 </details>

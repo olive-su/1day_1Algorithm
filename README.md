@@ -246,7 +246,7 @@
  | 날짜  | 문제이름                    | 풀이                                                         |
 | ----- | --------------------------- | ------------------------------------------------------------ |
 | 02/01 |      토마토        | [![badge](https://img.shields.io/static/v1?label=[알고리즘_일기]_171._토마토&message=Blog&style=social&logo=Iconify&link=https://olive-su.tistory.com/273)](https://olive-su.tistory.com/273) |
-| 02/02 |              |  |
+| 02/02 |      최대 힙        | [![badge](https://img.shields.io/static/v1?label=[알고리즘_일기]_172._최대_힙&message=Blog&style=social&logo=Iconify&link=https://olive-su.tistory.com/274)](https://olive-su.tistory.com/274) |
 | 02/03 |              |  |
 | 02/04 |              |  |
 | 02/05 |              |  |

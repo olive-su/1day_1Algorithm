@@ -247,14 +247,14 @@
 | ----- | --------------------------- | ------------------------------------------------------------ |
 | 02/01 |      토마토        | [![badge](https://img.shields.io/static/v1?label=[알고리즘_일기]_171._토마토&message=Blog&style=social&logo=Iconify&link=https://olive-su.tistory.com/273)](https://olive-su.tistory.com/273) |
 | 02/02 |      최대 힙        | [![badge](https://img.shields.io/static/v1?label=[알고리즘_일기]_172._최대_힙&message=Blog&style=social&logo=Iconify&link=https://olive-su.tistory.com/274)](https://olive-su.tistory.com/274) |
-| 02/03 |              |  |
-| 02/04 |              |  |
-| 02/05 |              |  |
-| 02/06 |              |  |
-| 02/07 |              |  |
-| 02/08 |              |  |
-| 02/09 |              |  |
-| 02/10 |              |  |
+| 02/03 |       최소 힙       | [![badge](https://img.shields.io/static/v1?label=[알고리즘_일기]_173._최소_힙&message=Blog&style=social&logo=Iconify&link=https://olive-su.tistory.com/278)](https://olive-su.tistory.com/278) |
+| 02/04 |  나는야 포켓몬 마스터 이다솜  | [![badge](https://img.shields.io/static/v1?label=[알고리즘_일기]_174.나는야_포켓몬_마스터_이다솜&message=Blog&style=social&logo=Iconify&link=https://olive-su.tistory.com/279)](https://olive-su.tistory.com/279) |
+| 02/05 |    부분합    | [![badge](https://img.shields.io/static/v1?label=[알고리즘_일기]_175._부분합&message=Blog&style=social&logo=Iconify&link=https://olive-su.tistory.com/280)](https://olive-su.tistory.com/280) |
+| 02/06 |   바이러스   | [![badge](https://img.shields.io/static/v1?label=[알고리즘_일기]_176._바이러스&message=Blog&style=social&logo=Iconify&link=https://olive-su.tistory.com/281)](https://olive-su.tistory.com/281) |
+| 02/07 |   두 용액    | [![badge](https://img.shields.io/static/v1?label=[알고리즘_일기]_177._두_용액&message=Blog&style=social&logo=Iconify&link=https://olive-su.tistory.com/282)](https://olive-su.tistory.com/282) |
+| 02/08 |  블로그   | [![badge](https://img.shields.io/static/v1?label=[알고리즘_일기]_178._블로그&message=Blog&style=social&logo=Iconify&link=https://olive-su.tistory.com/283)](https://olive-su.tistory.com/283) |
+| 02/09 |  파일 정리    | [![badge](https://img.shields.io/static/v1?label=[알고리즘_일기]_179._파일_정리&message=Blog&style=social&logo=Iconify&link=https://olive-su.tistory.com/284)](https://olive-su.tistory.com/284) |
+| 02/10 |  IF문 좀 대신 써줘     | [![badge](https://img.shields.io/static/v1?label=[알고리즘_일기]_180._IF문_좀_대신_써줘&message=Blog&style=social&logo=Iconify&link=https://olive-su.tistory.com/285)](https://olive-su.tistory.com/285) |
 | 02/11 |              |  |
 | 02/12 |              |  |
 | 02/13 |              |  |

@@ -19,10 +19,10 @@ def rectangle_check(x, y, s):
     return True
 
 def backtracking(x, y, s):
-    if s in sudoku[x]: # 같은 열 탐색
+    if s in sudoku[x]: # 같은 행 탐색
         return False
     for l in range(0, 9):
-        if s == sudoku[l][y]: # 같은 행 탐색
+        if s == sudoku[l][y]: # 같은 열 탐색
             return False
     if rectangle_check(x, y, s) == False: # 9x9 격자 탐색
         return False

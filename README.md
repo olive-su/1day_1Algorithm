@@ -263,7 +263,7 @@
 | 02/16 |    퇴사    |[![badge](https://img.shields.io/static/v1?label=[알고리즘_일기]_186._퇴사&message=Blog&style=social&logo=Iconify&link=https://olive-su.tistory.com/291)](https://olive-su.tistory.com/291)|
 | 02/17 |    휴게소 세우기     | [![badge](https://img.shields.io/static/v1?label=[알고리즘_일기]_187._휴게소_세우기&message=Blog&style=social&logo=Iconify&link=https://olive-su.tistory.com/292)](https://olive-su.tistory.com/292)|
 | 02/18 |    2xn 타일링   | [![badge](https://img.shields.io/static/v1?label=[알고리즘_일기]_188._2xn_타일링&message=Blog&style=social&logo=Iconify&link=https://olive-su.tistory.com/293)](https://olive-su.tistory.com/293)|
-| 02/19 |              ||
+| 02/19 |       정수 삼각형       |[![badge](https://img.shields.io/static/v1?label=[알고리즘_일기]_189._정수_삼각형&message=Blog&style=social&logo=Iconify&link=https://olive-su.tistory.com/294)](https://olive-su.tistory.com/294)|
 | 02/20 |    경쟁적 전염     |[![badge](https://img.shields.io/static/v1?label=[알고리즘_일기]_190._경쟁적_전염&message=Blog&style=social&logo=Iconify&link=https://olive-su.tistory.com/295)](https://olive-su.tistory.com/295)|
 | 02/21 |        돌 게임      | [![badge](https://img.shields.io/static/v1?label=[알고리즘_일기]_191._돌_게임&message=Blog&style=social&logo=Iconify&link=https://olive-su.tistory.com/296)](https://olive-su.tistory.com/296)|
 | 02/22 |       팰린드롬 만들기       | [![badge](https://img.shields.io/static/v1?label=[알고리즘_일기]_192._팰린드롬_만들기&message=Blog&style=social&logo=Iconify&link=https://olive-su.tistory.com/297)](https://olive-su.tistory.com/297)|
@@ -274,43 +274,4 @@
 | 02/27 |      RGB거리        |[![badge](https://img.shields.io/static/v1?label=[알고리즘_일기]_197._RGB거리&message=Blog&style=social&logo=Iconify&link=https://olive-su.tistory.com/302)](https://olive-su.tistory.com/302)|
 | 02/28 |         Z     |[![badge](https://img.shields.io/static/v1?label=[알고리즘_일기]_198._Z&message=Blog&style=social&logo=Iconify&link=https://olive-su.tistory.com/303)](https://olive-su.tistory.com/303)|
   
-</details>
-
-
-<details>
-<summary> 2022년 3월) 문제 풀이 기록 </summary>
-
- | 날짜  | 문제이름                    | 풀이                                                         |
-| ----- | --------------------------- | ------------------------------------------------------------ |
-| 03/01 |             |                        |
-| 03/02 |             |                        |
-| 03/03 |             |                        |
-| 03/04 |             |                        |
-| 03/05 |             |                        |
-| 03/06 |             |                        |
-| 03/07 |             |                        |
-| 03/08 |             |                        |
-| 03/09 |             |                        |
-| 03/10 |             |                        |
-| 03/11 |             |                        |
-| 03/12 |             |                        |
-| 03/13 |             |                        |
-| 03/14 |             |                        |
-| 03/15 |             |                        |
-| 03/16 |             |                        |
-| 03/17 |             |                        |
-| 03/18 |             |                        |
-| 03/19 |             |                        |
-| 03/20 |             |                        |
-| 03/21 |             |                        |
-| 03/22 |             |                        |
-| 03/23 |             |                        |
-| 03/24 |             |                        |
-| 03/25 |             |                        |
-| 03/26 |             |                        |
-| 03/27 |             |                        |
-| 03/28 |             |                        |
-| 03/29 |             |                        |
-| 03/30 |             |                        |
-| 03/31 |             |                        |
 </details>

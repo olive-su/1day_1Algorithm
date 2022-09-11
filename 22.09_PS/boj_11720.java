@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class do_it_01 {
+public class boj_11720 {
         public static void main(String[] args) {
             Scanner sc = new Scanner(System.in);
             int N = sc.nextInt();

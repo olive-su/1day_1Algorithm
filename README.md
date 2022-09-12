@@ -1,10 +1,6 @@
 # 📖 1day_1Algorithm
-- Develop Language : Python
-- 자세한 풀이 및 문제 출처 : 문제별 블로그 링크 참고 😀
-<br>
-
-- v1.0 : 2021.05. ~ 2021.09.
-- v2.0 : 2022.01.16. ~ ✏️
+- Language : Python, Java
+- Platform : Baekjoon Online Judge, Programmers
 
 <br>
 
@@ -13,9 +9,9 @@
 <details>
 <summary> 2021년 5월) 문제 풀이 기록 </summary>
   
-  | 날짜  | 문제이름                  | 풀이                                                         |
-| ----- | ------------------------- | ------------------------------------------------------------ |
-| 05/01 | 팔린드롬 문제             | [![badge](https://img.shields.io/static/v1?label=[알고리즘_일기]_1._팔린드롬_문제&message=Blog&Link&style=social&logo=Iconify&link=https://olive-su.tistory.com/5)](https://olive-su.tistory.com/5) |
+| 날짜  | 문제이름  | 언어 | 풀이  or  출처 |
+| --- | --- | --- | --- |
+| 05/01 | 팔린드롬 문제 |[![badge](https://img.shields.io/static/v1?label=[알고리즘_일기]_1._팔린드롬_문제&message=Blog&Link&style=social&logo=Iconify&link=https://olive-su.tistory.com/5)](https://olive-su.tistory.com/5) |
 | 05/02 | 피보나치 수열             | [![badge](https://img.shields.io/static/v1?label=[알고리즘_일기]_2._피보나치_수열&message=Blog&Link&style=social&logo=Iconify&link=https://olive-su.tistory.com/12)](https://olive-su.tistory.com/12) |
 | 05/03 | 숫자 합, 자릿수 합        | [![badge](https://img.shields.io/static/v1?label=[알고리즘_일기]_3.숫자_합,_자릿수_합&message=Blog&Link&style=social&logo=Iconify&link=https://olive-su.tistory.com/20)](https://olive-su.tistory.com/20) |
 | 05/04 | 이진 탐색 구현_재귀       | [![badge](https://img.shields.io/static/v1?label=[알고리즘_일기]_4._이진_탐색_구현_알고리즘(재귀)&message=Blog&Link&style=social&logo=Iconify&link=https://olive-su.tistory.com/21)](https://olive-su.tistory.com/21) |
@@ -54,8 +50,8 @@
 <summary> 2021년 6월) 문제 풀이 기록 </summary>
 
   
-| 날짜  | 문제이름                     | 풀이                                                         |
-| ----- | ---------------------------- | ------------------------------------------------------------ |
+| 날짜  | 문제이름  | 언어 | 풀이  or  출처 |
+| --- | --- | --- | --- |
 | 06/01 | 전자레인지                   | [![badge](https://img.shields.io/static/v1?label=[알고리즘_일기]_32._전자레인지&message=Blog&style=social&logo=Iconify&link=https://olive-su.tistory.com/64)](https://olive-su.tistory.com/64) |
 | 06/02 | 투자 귀재 규식이1            | [![badge](https://img.shields.io/static/v1?label=[알고리즘_일기]_33._투자_귀재_규식이&message=Blog&style=social&logo=Iconify&link=https://olive-su.tistory.com/69)](https://olive-su.tistory.com/69) |
 | 06/03 | 거듭제곱 빨리 계산하기       | [![badge](https://img.shields.io/static/v1?label=[알고리즘_일기]_34._거듭_제곱_빨리_구하기&message=Blog&style=social&logo=Iconify&link=https://olive-su.tistory.com/71)](https://olive-su.tistory.com/71) |
@@ -93,13 +89,8 @@
  
 <details>
 <summary> 2021년 7월) 문제 풀이 기록 </summary>
-
-  
-
-
-
-| 날짜  | 문제이름                    | 풀이                                                         |
-| ----- | --------------------------- | ------------------------------------------------------------ |
+| 날짜  | 문제이름  | 언어 | 풀이  or  출처 |
+| --- | --- | --- | --- |
 | 07/01 | 짝지어 제거하기             | [![badge](https://img.shields.io/static/v1?label=[알고리즘_일기]_62._짝지어_제거하기&message=Blog&style=social&logo=Iconify&link=https://olive-su.tistory.com/110)](https://olive-su.tistory.com/110) |
 | 07/02 | 문자열 압축                 | [![badge](https://img.shields.io/static/v1?label=[알고리즘_일기]_63._문자열_압축&message=Blog&style=social&logo=Iconify&link=https://olive-su.tistory.com/111)](https://olive-su.tistory.com/111) |
 | 07/03 | 프린터                      | [![badge](https://img.shields.io/static/v1?label=[알고리즘_일기]_64._프린터&message=Blog&style=social&logo=Iconify&link=https://olive-su.tistory.com/112)](https://olive-su.tistory.com/112) |
@@ -138,9 +129,8 @@
 
 <details>
 <summary> 2021년 8월) 문제 풀이 기록 </summary>
-
-  | 날짜  | 문제이름                    | 풀이                                                         |
-| ----- | --------------------------- | ------------------------------------------------------------ |
+| 날짜  | 문제이름  | 언어 | 풀이  or  출처 |
+| --- | --- | --- | --- |
 | 08/01 | 스택 수열                   | [![badge](https://img.shields.io/static/v1?label=[알고리즘_일기]_93._스택_수열&message=Blog&style=social&logo=Iconify&link=https://olive-su.tistory.com/147)](https://olive-su.tistory.com/147) |
 | 08/02 | 부족한 금액 계산하기        | [![badge](https://img.shields.io/static/v1?label=[알고리즘_일기]_94._부족한_금액_계산하기&message=Blog&style=social&logo=Iconify&link=https://olive-su.tistory.com/148)](https://olive-su.tistory.com/148) |
 | 08/03 | 내적                      | [![badge](https://img.shields.io/static/v1?label=[알고리즘_일기]_95._내적&message=Blog&style=social&logo=Iconify&link=https://olive-su.tistory.com/149)](https://olive-su.tistory.com/149) |
@@ -178,9 +168,8 @@
 
 <details>
 <summary> 2021년 9월) 문제 풀이 기록 </summary>
-
- | 날짜  | 문제이름                    | 풀이                                                         |
-| ----- | --------------------------- | ------------------------------------------------------------ |
+| 날짜  | 문제이름  | 언어 | 풀이  or  출처 |
+| --- | --- | --- | --- |
 | 09/01 | 위장              | [![badge](https://img.shields.io/static/v1?label=[알고리즘_일기]_124._위장&message=Blog&style=social&logo=Iconify&link=https://olive-su.tistory.com/179)](https://olive-su.tistory.com/179) |
 | 09/02 | 구명보트      | [![badge](https://img.shields.io/static/v1?label=[알고리즘_일기]_125._구명보트&message=Blog&style=social&logo=Iconify&link=https://olive-su.tistory.com/180)](https://olive-su.tistory.com/180) |
 | 09/03 | 나무 자르기                    | [![badge](https://img.shields.io/static/v1?label=[알고리즘_일기]_126._나무_자르기&message=Blog&style=social&logo=Iconify&link=https://olive-su.tistory.com/181)](https://olive-su.tistory.com/181) |
@@ -216,9 +205,8 @@
 
 <details>
 <summary> 2022년 1월) 문제 풀이 기록 </summary>
-
- | 날짜  | 문제이름                    | 풀이                                                         |
-| ----- | --------------------------- | ------------------------------------------------------------ |
+| 날짜  | 문제이름  | 언어 | 풀이  or  출처 |
+| --- | --- | --- | --- |
 | 01/16 |  곱하기 혹은 더하기  | [![badge](https://img.shields.io/static/v1?label=[알고리즘_일기]_154._곱하기_혹은_더하기&message=Blog&style=social&logo=Iconify&link=https://olive-su.tistory.com/251)](https://olive-su.tistory.com/251) |
 | 01/17 |  모험가 길드  | [![badge](https://img.shields.io/static/v1?label=[알고리즘_일기]_155._모험가_길드&message=Blog&style=social&logo=Iconify&link=https://olive-su.tistory.com/254)](https://olive-su.tistory.com/254) |
 | 01/18 |  뒤집기  |[![badge](https://img.shields.io/static/v1?label=[알고리즘_일기]_156._뒤집기&message=Blog&style=social&logo=Iconify&link=https://olive-su.tistory.com/255)](https://olive-su.tistory.com/255)|
@@ -242,9 +230,8 @@
 
 <details>
 <summary> 2022년 2월) 문제 풀이 기록 </summary>
-
- | 날짜  | 문제이름                    | 풀이                                                         |
-| ----- | --------------------------- | ------------------------------------------------------------ |
+| 날짜  | 문제이름  | 언어 | 풀이  or  출처 |
+| --- | --- | --- | --- |
 | 02/01 |      토마토        | [![badge](https://img.shields.io/static/v1?label=[알고리즘_일기]_171._토마토&message=Blog&style=social&logo=Iconify&link=https://olive-su.tistory.com/273)](https://olive-su.tistory.com/273) |
 | 02/02 |      최대 힙        | [![badge](https://img.shields.io/static/v1?label=[알고리즘_일기]_172._최대_힙&message=Blog&style=social&logo=Iconify&link=https://olive-su.tistory.com/274)](https://olive-su.tistory.com/274) |
 | 02/03 |       최소 힙       | [![badge](https://img.shields.io/static/v1?label=[알고리즘_일기]_173._최소_힙&message=Blog&style=social&logo=Iconify&link=https://olive-su.tistory.com/278)](https://olive-su.tistory.com/278) |

@@ -5,14 +5,15 @@
 
 <br>
 
-### 1일 1알고리즘 기록
+## ✨ 1일 1알고리즘 기록 ✨
+<br/>
 
 <details>
-<summary> 2021년 5월) 문제 풀이 기록 </summary>
+<summary> 📝 2021년 5월) Problem Solving </summary>
   
 | 날짜  | 문제이름  | 언어 | 풀이  or  출처 |
 | --- | --- | --- | --- |
-| 05/01 | 팔린드롬 문제         | [![[badge](https://img.shields.io/static/v1?label=[알고리즘_일기]_1._팔린드롬_문제&message=Blog&Link&style=social&logo=Iconify&link=https://olive-su.tistory.com/5)](https://olive-su.tistory.com/5) |
+| 05/01 | 팔린드롬 문제   |  Python  | [![badge](https://img.shields.io/static/v1?label=[알고리즘_일기]_1._팔린드롬_문제&message=Blog&Link&style=social&logo=Iconify&link=https://olive-su.tistory.com/5)](https://olive-su.tistory.com/5) |
 | 05/02 | 피보나치 수열             | Python  | [![badge](https://img.shields.io/static/v1?label=[알고리즘_일기]_2._피보나치_수열&message=Blog&Link&style=social&logo=Iconify&link=https://olive-su.tistory.com/12)](https://olive-su.tistory.com/12) |
 | 05/03 | 숫자 합, 자릿수 합        | Python  | [![badge](https://img.shields.io/static/v1?label=[알고리즘_일기]_3.숫자_합,_자릿수_합&message=Blog&Link&style=social&logo=Iconify&link=https://olive-su.tistory.com/20)](https://olive-su.tistory.com/20) |
 | 05/04 | 이진 탐색 구현_재귀       | Python  | [![badge](https://img.shields.io/static/v1?label=[알고리즘_일기]_4._이진_탐색_구현_알고리즘(재귀)&message=Blog&Link&style=social&logo=Iconify&link=https://olive-su.tistory.com/21)](https://olive-su.tistory.com/21) |
@@ -47,10 +48,10 @@
 </details>
 
 <details>
-<summary> 2021년 6월) 문제 풀이 기록 </summary>
-
-| 날짜  | 문제이름                     | 언어   | 풀이 or 출처                                                                                                                                                                                                       |
-| ----- | ---------------------------- | ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+<summary> 📝 2021년 6월) Problem Solving  </summary>
+  
+| 날짜  | 문제이름  | 언어 | 풀이  or  출처 |
+| --- | --- | --- | --- |
 | 06/01 | 전자레인지                   | Python | [![badge](https://img.shields.io/static/v1?label=[알고리즘_일기]_32._전자레인지&message=Blog&style=social&logo=Iconify&link=https://olive-su.tistory.com/64)](https://olive-su.tistory.com/64)                     |
 | 06/02 | 투자 귀재 규식이1            | Python | [![badge](https://img.shields.io/static/v1?label=[알고리즘_일기]_33._투자_귀재_규식이&message=Blog&style=social&logo=Iconify&link=https://olive-su.tistory.com/69)](https://olive-su.tistory.com/69)               |
 | 06/03 | 거듭제곱 빨리 계산하기       | Python | [![badge](https://img.shields.io/static/v1?label=[알고리즘_일기]_34._거듭_제곱_빨리_구하기&message=Blog&style=social&logo=Iconify&link=https://olive-su.tistory.com/71)](https://olive-su.tistory.com/71)          |
@@ -85,7 +86,8 @@
 </details>
 
 <details>
-<summary> 2021년 7월) 문제 풀이 기록 </summary>
+<summary> 📝 2021년 7월) Problem Solving  </summary>
+  
 | 날짜  | 문제이름  | 언어 | 풀이  or  출처 |
 | --- | --- | --- | --- |
 | 07/01 | 짝지어 제거하기             | Python  | [![badge](https://img.shields.io/static/v1?label=[알고리즘_일기]_62._짝지어_제거하기&message=Blog&style=social&logo=Iconify&link=https://olive-su.tistory.com/110)](https://olive-su.tistory.com/110) |
@@ -123,7 +125,8 @@
 </details>
 
 <details>
-<summary> 2021년 8월) 문제 풀이 기록 </summary>
+<summary> 📝 2021년 8월) Problem Solving  </summary>
+  
 | 날짜  | 문제이름  | 언어 | 풀이  or  출처 |
 | --- | --- | --- | --- |
 | 08/01 | 스택 수열                   | Python  | [![badge](https://img.shields.io/static/v1?label=[알고리즘_일기]_93._스택_수열&message=Blog&style=social&logo=Iconify&link=https://olive-su.tistory.com/147)](https://olive-su.tistory.com/147) |
@@ -161,7 +164,8 @@
 </details>
 
 <details>
-<summary> 2021년 9월) 문제 풀이 기록 </summary>
+<summary> 📝 2021년 9월) Problem Solving  </summary>
+  
 | 날짜  | 문제이름  | 언어 | 풀이  or  출처 |
 | --- | --- | --- | --- |
 | 09/01 | 위장              | Python  | [![badge](https://img.shields.io/static/v1?label=[알고리즘_일기]_124._위장&message=Blog&style=social&logo=Iconify&link=https://olive-su.tistory.com/179)](https://olive-su.tistory.com/179) |
@@ -198,7 +202,8 @@
 </details>
 
 <details>
-<summary> 2022년 1월) 문제 풀이 기록 </summary>
+<summary> 📝 2022년 1월) Problem Solving  </summary>
+  
 | 날짜  | 문제이름  | 언어 | 풀이  or  출처 |
 | --- | --- | --- | --- |
 | 01/16 |  곱하기 혹은 더하기  | Python  | [![badge](https://img.shields.io/static/v1?label=[알고리즘_일기]_154._곱하기_혹은_더하기&message=Blog&style=social&logo=Iconify&link=https://olive-su.tistory.com/251)](https://olive-su.tistory.com/251) |
@@ -222,7 +227,8 @@
 </details>
 
 <details>
-<summary> 2022년 2월) 문제 풀이 기록 </summary>
+<summary> 📝 2022년 2월) Problem Solving  </summary>
+  
 | 날짜  | 문제이름  | 언어 | 풀이  or  출처 |
 | --- | --- | --- | --- |
 | 02/01 |      토마토        | Python  | [![badge](https://img.shields.io/static/v1?label=[알고리즘_일기]_171._토마토&message=Blog&style=social&logo=Iconify&link=https://olive-su.tistory.com/273)](https://olive-su.tistory.com/273) |

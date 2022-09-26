@@ -6,6 +6,7 @@
 <br>
 
 ## ✨ 1일 1알고리즘 기록 ✨
+
 <br/>
 
 <details>
@@ -259,5 +260,182 @@
 | 02/26 |      행복 유치원        | Python  | [![badge](https://img.shields.io/static/v1?label=[알고리즘_일기]_196._행복_유치원&message=Blog&style=social&logo=Iconify&link=https://olive-su.tistory.com/301)](https://olive-su.tistory.com/301)|
 | 02/27 |      RGB거리        | Python  | [![badge](https://img.shields.io/static/v1?label=[알고리즘_일기]_197._RGB거리&message=Blog&style=social&logo=Iconify&link=https://olive-su.tistory.com/302)](https://olive-su.tistory.com/302)|
 | 02/28 |         Z     | Python  | [![badge](https://img.shields.io/static/v1?label=[알고리즘_일기]_198._Z&message=Blog&style=social&logo=Iconify&link=https://olive-su.tistory.com/303)](https://olive-su.tistory.com/303)|
+  
+</details>
+
+<details>
+<summary> 📝 2022년 3월) Problem Solving  </summary>
+  
+| 날짜  | 문제이름  | 언어 | 풀이  or  출처 |
+| --- | --- | --- | --- |
+| 03/01 |  공주님을 구해라!  | Python  | [백준 17836번](https://www.acmicpc.net/problem/17836)  |
+| 03/02 |  점프  | Python  | [백준 1890번](https://www.acmicpc.net/problem/1890)  |
+| 03/03 |  01타일  | Python  |  [백준 1904번](https://www.acmicpc.net/problem/1904) |
+| 03/04 |   오르막 수 | Python  |  [백준 11057번](https://www.acmicpc.net/problem/11057)  |
+| 03/05 |  이중 우선순위 큐  | Python  |  [백준 7662번](https://www.acmicpc.net/problem/7662) |
+| 03/06 |  봄버맨  | Python  |  [백준 16918번](https://www.acmicpc.net/problem/16918) |
+| 03/07 |  N과 M(4)  | Python  |  [백준 15652번](https://www.acmicpc.net/problem/15652) |
+| 03/08 |  N과 M(3)  | Python  |  [백준 15651번](https://www.acmicpc.net/problem/15651) |
+| 03/09 |  N과 M(2)  | Python  |  [백준 15650번](https://www.acmicpc.net/problem/15650) |
+| 03/10 |  N과 M(1)  | Python  |  [백준 15649번](https://www.acmicpc.net/problem/15649) |
+| 03/11 |  동전 1  | Python  | [백준 2293번](https://www.acmicpc.net/problem/2293)  |
+| 03/12 |  강의실 배정  | Python  |  [백준 11000번](https://www.acmicpc.net/problem/11000) |
+| 03/13 |  이친수  | Python  |  [백준 2193번](https://www.acmicpc.net/problem/2193) |
+| 03/14 |  이동하기  | Python  |  [백준 11048번](https://www.acmicpc.net/problem/11048) |
+| 03/15 |  가장 긴 증가하는 부분 수열  | Python  | [백준 11053번](https://www.acmicpc.net/problem/11053)  |
+| 03/16 |  가장 긴 증가하는 부분 수열4  | Python  |  [백준 14002번](https://www.acmicpc.net/problem/14002) |
+| 03/17 |  욕심쟁이 판다  | Python  |  [백준 1937번](https://www.acmicpc.net/problem/1937) |
+| 03/18 |  LCS  | Python  | [백준 9251번](https://www.acmicpc.net/problem/9251)  |
+| 03/19 |  쉬운 계단 수  | Python  |  [백준 10844번](https://www.acmicpc.net/problem/10844) |
+| 03/20 |  스티커  | Python  |  [백준 9465번](https://www.acmicpc.net/problem/9465) |
+| 03/21 |  평범한 배낭  | Python  |  [백준 12865번](https://www.acmicpc.net/problem/12865) |
+| 03/22 |  포도주 시식  | Python  | [백준 2156번](https://www.acmicpc.net/problem/2156)  |
+| 03/23 |  테트로미노  | Python  |  [백준 14500번](https://www.acmicpc.net/problem/14500) |
+| 03/24 |  도영이가 만든 맛있는 음식  | Python  | [백준 2961번](https://www.acmicpc.net/problem/2961)  |
+| 03/25 |  링크와 스타트  | Python  |  [백준 15661번](https://www.acmicpc.net/problem/15661) |
+| 03/26 |  경로 찾기  | Python  | [백준 11403번](https://www.acmicpc.net/problem/11403)  |
+| 03/27 |  괄호의 값  | Python  | [백준 2504번](https://www.acmicpc.net/problem/2504)  |
+| 03/28 |  연산자 끼워넣기  | Python  | [백준 14888번](https://www.acmicpc.net/problem/14888)  |
+| 03/29 |  빗물  | Python  |  [백준 14719번](https://www.acmicpc.net/problem/14719) |
+| 03/30 |  N-Queen  | Python  | [백준 9663번](https://www.acmicpc.net/problem/9663)  |
+| 03/31 |  테트로미노  | Python  | [백준 14500번](https://www.acmicpc.net/problem/14500)  |
+  
+</details>
+
+<details>
+<summary> 📝 2022년 4월) Problem Solving  </summary>
+  
+| 날짜  | 문제이름  | 언어 | 풀이  or  출처 |
+| --- | --- | --- | --- |
+| 04/01 |  가르침  | Python  | [백준 1062번](https://www.acmicpc.net/problem/1062)  |
+| 04/02 | 멀티탭 스케줄링   | Python  |  [백준 1700번](https://www.acmicpc.net/problem/1700) |
+| 04/03 |  색종이 만들기  | Python  |  [백준 2630번](https://www.acmicpc.net/problem/2630) |
+| 04/04 |  게임  | Python  |  [백준 1072번](https://www.acmicpc.net/problem/1072) |
+| 04/05 |  2xn 타일링  | Python  |  [백준 11726번](https://www.acmicpc.net/problem/11726) |
+| 04/06 |  곱셈  | Python  |  [백준 1629번](https://www.acmicpc.net/problem/1629) |
+| 04/07 |  IPv6  | Python  |  [백준 3107번](https://www.acmicpc.net/problem/3107) |
+| 04/08 |  놀라운 문자열  | Python  |  [백준 1972번](https://www.acmicpc.net/problem/1972) |
+| 04/09 |  오리  | Python  |  [백준 12933번](https://www.acmicpc.net/problem/12933) |
+| 04/10 |  입국심사  | Python  |  [백준 3079번](https://www.acmicpc.net/problem/3079) |
+| 04/11 |  중량제한  | Python  |  [백준 1939번](https://www.acmicpc.net/problem/1939) |
+| 04/12 |  선분 위의 점  | Python  |  [백준 11663번](https://www.acmicpc.net/problem/11663) |
+| 04/13 |  N과 M(10)  | Python  |  [백준 15664번](https://www.acmicpc.net/problem/15664) |
+| 04/14 |  외판원 순회 2  | Python  |  [백준 10971번](https://www.acmicpc.net/problem/10971) |
+| 04/15 |  스도쿠  | Python  |  [백준 2239번](https://www.acmicpc.net/problem/2239) |
+| 04/16 |  미친 로봇  | Python  |  [백준 1405번](https://www.acmicpc.net/problem/1405) |
+| 04/17 |  케빈 베이컨의 6단계 법칙  | Python  |  [백준 1389번](https://www.acmicpc.net/problem/1389) |
+| 04/18 |  쿼드트리  | Python  |  [백준 1992번](https://www.acmicpc.net/problem/1992) |
+| 04/19 |  샤워실 바닥 깔기 (small)  | Python  |  [백준 14600번](https://www.acmicpc.net/problem/14600) |
+| 04/20 |  소용돌이 예쁘게 출력하기  | Python  |  [백준 1022번](https://www.acmicpc.net/problem/1022) |
+| 04/21 |  토너먼트 승자  | Python  |  [백준 1404번](https://www.acmicpc.net/problem/1404) |
+| 04/22 |  7종 경기  | Python  |  [백준 8932번](https://www.acmicpc.net/problem/8932) |
+| 04/23 |  종이의 개수  | Python  |  [백준 1780번](https://www.acmicpc.net/problem/1780) |
+| 04/24 |  수들의 합  | Python  |  [백준 1789번](https://www.acmicpc.net/problem/1789) |
+| 04/25 |  트리 순회  | Python  |  [백준 1991번](https://www.acmicpc.net/problem/1991) |
+| 04/26 |  사탕 게임  | Python  |  [백준 3085번](https://www.acmicpc.net/problem/3085) |
+| 04/27 |  감소하는 수  | Python  |  [백준 1038번](https://www.acmicpc.net/problem/1038) |
+| 04/28 |  파이프 옮기기1  | Python  |  [백준 17070번](https://www.acmicpc.net/problem/17070) |
+| 04/29 |  숨바꼭질  | Python  |  [백준 1697번](https://www.acmicpc.net/problem/1697) |
+| 04/30 |  데스 나이트  | Python  |  [백준 16948번](https://www.acmicpc.net/problem/16948) |
+  
+</details>
+
+<details>
+<summary> 📝 2022년 5월) Problem Solving  </summary>
+  
+| 날짜  | 문제이름  | 언어 | 풀이  or  출처 |
+| --- | --- | --- | --- |
+| 05/01 |  현수막  | Python  |   [백준 14716번](https://www.acmicpc.net/problem/14716)  |
+| 05/02 |  파일 합치기 3  | Python  |   [백준 13975번](https://www.acmicpc.net/problem/13975)  |
+| 05/03 |  전깃줄  | Python  |   [백준 2565번](https://www.acmicpc.net/problem/2565)  |
+| 05/04 |  비밀번호 발음하기  | Python  |   [백준 4659번](https://www.acmicpc.net/problem/4659)   |
+| 05/05 |  단어 뒤집기 2  | Python  |   [백준 17413번](https://www.acmicpc.net/problem/17413)  |
+| 05/06 |  꽃길  | Python  |   [백준 14620번](https://www.acmicpc.net/problem/14620)  |
+| 05/07 |  스위치와 램프  | Python  |   [백준 16960번](https://www.acmicpc.net/problem/16960)  |
+| 05/08 |  과자 나눠주기  | Python  |   [백준 16401번](https://www.acmicpc.net/problem/16401)  |
+| 05/09 |  넴모넴모(easy)  | Python  |   [백준 14712번](https://www.acmicpc.net/problem/14712)  |
+| 05/10 |  알바생 강호  | Python  |   [백준 1758번](https://www.acmicpc.net/problem/1758)  |
+| 05/11 |  2+1 세일  | Python  |   [백준 11508번](https://www.acmicpc.net/problem/11508)  |
+| 05/12 |  색종이 붙이기  | Python  |   [백준 17136번](https://www.acmicpc.net/problem/17136)  |
+| 05/13 |  로봇 청소기  | Python  |   [백준 14503번](https://www.acmicpc.net/problem/14503)  |
+| 05/14 |  줄 세우기  | Python  |   [백준 1681번](https://www.acmicpc.net/problem/1681)  |
+| 05/15 |  스위치 켜고 끄기  | Python  |   [백준 1244번](https://www.acmicpc.net/problem/1244)  |
+| 05/16 |  재귀함수가 뭔가요?  | Python  |   [백준 17478번](https://www.acmicpc.net/problem/17478)  |
+| 05/17 |  인구 이동  | Python  |   [백준 16234번](https://www.acmicpc.net/problem/16234)  |
+| 05/18 |  촌수계산  | Python  |   [백준 2644번](https://www.acmicpc.net/problem/2644)  |
+| 05/19 |  최단경로  | Python  |   [백준 1753번](https://www.acmicpc.net/problem/1753)  |
+| 05/20 |  다리놓기  | Python  |   [백준 1010번](https://www.acmicpc.net/problem/1010)  |
+| 05/21 |  가장 큰 정사각형  | Python  |   [백준 1915번](https://www.acmicpc.net/problem/1915)  |
+| 05/22 |  0의 개수  | Python  |   [백준 11170번](https://www.acmicpc.net/problem/11170)  |
+| 05/23 |  N번째 큰 수  | Python  |   [백준 2693번](https://www.acmicpc.net/problem/2693)  |
+| 05/24 |  쉽게 푸는 문제  | Python  |   [백준 1292번](https://www.acmicpc.net/problem/1292)  |
+| 05/25 |  플로이드  | Python  |   [백준 11404번](https://www.acmicpc.net/problem/11404)  |
+| 05/26 |  패션왕 신해빈  | Python  |   [백준 9375번](https://www.acmicpc.net/problem/9375)  |
+| 05/27 |  적록색약  | Python  |   [백준 10026번](https://www.acmicpc.net/problem/10026)  |
+| 05/28 |  네 번째 점  | Python  |   [백준 3009번](https://www.acmicpc.net/problem/3009)  |
+| 05/29 |  단어 수학  | Python  |   [백준 1339번](https://www.acmicpc.net/problem/1339)  |
+| 05/30 |  30  | Python  |   [백준 10610번](https://www.acmicpc.net/problem/10610)  |
+| 05/31 |  카드 구매하기  | Python  |   [백준 11052번](https://www.acmicpc.net/problem/11052)  |
+  
+</details>
+
+<details>
+<summary> 📝 2022년 6월) Problem Solving  </summary>
+  
+| 날짜  | 문제이름  | 언어 | 풀이  or  출처 |
+| --- | --- | --- | --- |
+| 06/01 |  키 순서  | Python  |   [백준 2458번](https://www.acmicpc.net/problem/2458)  |
+| 06/02 |  미로만들기  | Python  |   [백준 2665번](https://www.acmicpc.net/problem/2665)  |
+| 06/03 |  녹색 옷 입은 애가 젤다지?  | Python  |   [백준 4485번](https://www.acmicpc.net/problem/4485)  |
+| 06/04 |  소수 찾기  | Python  |   [백준 1978번](https://www.acmicpc.net/problem/1978)  |
+| 06/05 |  네트워크  | Python  |   [프로그래머스 네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162)  |
+| 06/06 |  베스트앨범  | Python  |   [프로그래머스 베스트앨범](https://school.programmers.co.kr/learn/courses/30/lessons/42579)  |
+| 06/07 |  디스크 컨트롤러  | Python  |   [프로그래머스 디스크 컨트롤러](https://school.programmers.co.kr/learn/courses/30/lessons/42627)  |
+| 06/08 |  서강그라운드  | Python  |   [백준 14938번](https://www.acmicpc.net/problem/14938)  |
+| 06/09 |  회장뽑기  | Python  |   [백준 2660번](https://www.acmicpc.net/problem/2660)  |
+| 06/10 |  최소비용 구하기  | Python  |   [백준 1916번](https://www.acmicpc.net/problem/1916)  |
+| 06/11 |  치즈  | Python  |   [백준 2636번](https://www.acmicpc.net/problem/2636)  |
+| 06/12 |  저울  | Python  |   [백준 10159번](https://www.acmicpc.net/problem/10159)  |
+| 06/13 |  택배  | Python  |   [백준 5972번](https://www.acmicpc.net/problem/5972)  |
+| 06/14 |  로또  | Python  |   [백준 6603번](https://www.acmicpc.net/problem/6603)  |
+| 06/15 |  절댓값 힙  | Python  |   [백준 11286번](https://www.acmicpc.net/problem/11286)  |
+| 06/16 |  동물원  | Python  |   [백준 1309번](https://www.acmicpc.net/problem/1309)  |
+| 06/17 |  부분수열의 합  | Python  |   [백준 1182번](https://www.acmicpc.net/problem/1182)  |
+| 06/18 |  궁금한 민호  | Python  |   [백준 1507번](https://www.acmicpc.net/problem/1507)  |
+| 06/19 |  나이트의 이동  | Python  |   [백준 7562번](https://www.acmicpc.net/problem/7562)  |
+| 06/20 |  택배 배송  | Python  |   [백준 5972번](https://www.acmicpc.net/problem/5972)  |
+| 06/21 |  택배  | Python  |   [백준 1719번](https://www.acmicpc.net/problem/1719)  |
+| 06/22 |  스타트링크  | Python  |   [백준 5014번](https://www.acmicpc.net/problem/5014)  |
+| 06/23 |  A → B  | Python  |   [백준 16953번](https://www.acmicpc.net/problem/16953)  |
+| 06/24 |  괄호 변환  | Python  |   [프로그래머스 괄호 변환](https://school.programmers.co.kr/learn/courses/30/lessons/60058)  |
+| 06/25 |  섬의 개수  | Python  |   [백준 4963번](https://www.acmicpc.net/problem/4963)  |
+| 06/26 |  소수의 연속합  | Python  |   [백준 1644번](https://www.acmicpc.net/problem/1644)  |
+| 06/27 |  벽 부수고 이동하기4  | Python  |   [백준 16946번](https://www.acmicpc.net/problem/16946)  |
+| 06/28 |  특정한 최단 경로  | Python  |   [백준 1504번](https://www.acmicpc.net/problem/1504)  |
+| 06/29 |  경사로  | Python  |   [백준 14890번](https://www.acmicpc.net/problem/14890)  |
+| 06/30 |  프렌즈4블록  | Python  |   [프로그래머스 프렌즈4블록](https://school.programmers.co.kr/learn/courses/30/lessons/60058)  |
+  
+</details>
+
+<details>
+<summary> 📝 2022년 7월) Problem Solving  </summary>
+  
+| 날짜  | 문제이름  | 언어 | 풀이  or  출처 |
+| --- | --- | --- | --- |
+| 07/01 |  구슬탈출  | Python  | [백준 9205번](https://www.acmicpc.net/problem/9205)  |
+| 07/02 |  행렬 테두리 회전하기  | Python  | [프로그래머스 행렬 테두리 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/77485)  |
+| 07/03 |  미세먼지 안녕  | Python  | [백준 17144번](https://www.acmicpc.net/problem/17144)  |
+| 07/04 |  거리두기 확인하기  | Python  | [프로그래머스 거리두기 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/81302)  |
+| 07/05 |  빙산  | Python  | [백준 2573번](https://www.acmicpc.net/problem/2573)  |
+| 07/06 |  신고 결과 받기  | Python  | [프로그래머스 신고 결과 받기](https://school.programmers.co.kr/learn/courses/30/lessons/92334)  |
+| 07/07 |  주차 요금 계산  | Python  | [프로그래머스 주차 요금 계산](https://school.programmers.co.kr/learn/courses/30/lessons/92341)  |
+| 07/08 |  파일명 정렬  | Python  | [프로그래머스 파일명 정렬](https://school.programmers.co.kr/learn/courses/30/lessons/17686)  |
+| 07/09 |  k진수에서 소수 개수 구하기  | Python  | [프로그래머스 k진수에서 소수 개수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/92335)  |
+| 07/10 |  n진수 게임  | Python  | [프로그래머스 n진수 게임](https://school.programmers.co.kr/learn/courses/30/lessons/17687)  |
+| 07/11 |  안전영역  | Python  | [백준 2468번](https://www.acmicpc.net/problem/2468)  |
+| 07/12 |  튜플  | Python  | [프로그래머스 튜플](https://school.programmers.co.kr/learn/courses/30/lessons/64065)  |
+| 07/13 |  메뉴 리뉴얼  | Python  | [프로그래머스 메뉴 리뉴얼](https://school.programmers.co.kr/learn/courses/30/lessons/72411)  |
+| 07/14 |  후보키  | Python  | [프로그래머스 후보키](https://school.programmers.co.kr/learn/courses/30/lessons/42890)  |
+| 07/15 |  캐시  | Python  | [프로그래머스 캐시](https://school.programmers.co.kr/learn/courses/30/lessons/17680)  |
   
 </details>

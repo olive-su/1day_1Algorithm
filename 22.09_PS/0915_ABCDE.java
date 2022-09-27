@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class boj_13023 {
+public class Main {
     static ArrayList<Integer>[] A;
     static boolean[] visited;
     static int count = 1;

@@ -439,3 +439,32 @@
 | 07/15 |  캐시  | Python  | [프로그래머스 캐시](https://school.programmers.co.kr/learn/courses/30/lessons/17680)  |
   
 </details>
+
+<details>
+<summary> 📝 2022년 9월) Problem Solving  </summary>
+  
+| 날짜  | 문제이름  | 언어 | 풀이  or  출처 |
+| --- | --- | --- | --- |
+| 09/07 |  구간 합 구하기 4  | Java  |  [백준 11659번](https://www.acmicpc.net/problem/11659) |
+|       |  숫자의 합  | Java  |  [백준 11720번](https://www.acmicpc.net/problem/11720) |
+|       |  평균  | Java  |  [백준 1546번](https://www.acmicpc.net/problem/1546) |
+| 09/09 |  구간 합 구하기 5  | Java  |  [백준 11620번](https://www.acmicpc.net/problem/11620) |
+|       |  나머지 합  | Java  |  [백준 10986번](https://www.acmicpc.net/problem/10986) |
+| 09/10 |  수들의 합 5  | Java  |  [백준 2018번](https://www.acmicpc.net/problem/2018) |
+|       |  스택 수열  | Java  |  [백준 1874번](https://www.acmicpc.net/problem/1874) |
+|       |  오큰수  | Java  |  [백준 17298번](https://www.acmicpc.net/problem/17298) |
+|       |  좋다  | Java  |  [백준 1253번](https://www.acmicpc.net/problem/1253) |
+|       |  주몽  | Java  |  [백준 1940번](https://www.acmicpc.net/problem/1940) |
+| 09/11 |  신기한 소수  | Java  |  [백준 2023번](https://www.acmicpc.net/problem/2023) |
+|       |  연결 요소의 개수  | Java  |  [백준 11724번](https://www.acmicpc.net/problem/11724) |
+|       |  절댓값 힙  | Java  |  [백준 11286번](https://www.acmicpc.net/problem/11286) |
+|       |  카드2  | Java  |  [백준 2164번](https://www.acmicpc.net/problem/2164) |
+| 09/15 |  ABCDE  | Java  |  [백준 13023번](https://www.acmicpc.net/problem/13023) |
+|       |  JadenCase 문자열 만들기  | Java  |  [프로그래머스 JadenCase 문자열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12951) |
+| 09/27 |  수들의 합 5  | Python  | [백준 2018번](https://www.acmicpc.net/problem/2018)  |
+| 09/28 |    | Java  |   |
+| 09/29 |    | Java  |   |
+| 09/30 |    | Java  |   |
+| 09/31 |    | Java  |   |
+  
+</details>

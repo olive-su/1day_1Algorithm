@@ -463,9 +463,6 @@
 |       |  JadenCase 문자열 만들기  | Java  |  [프로그래머스 JadenCase 문자열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12951) |
 | 09/27 |  수들의 합 5  | Python  | [백준 2018번](https://www.acmicpc.net/problem/2018)  |
 | 09/28 |  수들의 합 2  | Python  | [백준 2003번](https://www.acmicpc.net/problem/2003)  |
-|       |  DNA 비밀번호  | Python  | [백준 1289번](https://www.acmicpc.net/problem/1289)  |
-| 09/29 |    | Java  |   |
-| 09/30 |    | Java  |   |
-| 09/31 |    | Java  |   |
+|       |  DNA 비밀번호  | Python  | [백준 12891번](https://www.acmicpc.net/problem/12891)  |
   
 </details>

@@ -464,5 +464,6 @@
 | 09/27 |  수들의 합 5  | Python  | [백준 2018번](https://www.acmicpc.net/problem/2018)  |
 | 09/28 |  수들의 합 2  | Python  | [백준 2003번](https://www.acmicpc.net/problem/2003)  |
 |       |  DNA 비밀번호  | Python  | [백준 12891번](https://www.acmicpc.net/problem/12891)  |
+| 09/30 |  DNA 비밀번호  | Java  | [백준 12891번](https://www.acmicpc.net/problem/12891)  |
   
 </details>

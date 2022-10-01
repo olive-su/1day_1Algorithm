@@ -467,3 +467,14 @@
 | 09/30 |  DNA 비밀번호  | Java  | [백준 12891번](https://www.acmicpc.net/problem/12891)  |
   
 </details>
+
+<details>
+<summary> 📝 2022년 10월) Problem Solving  </summary>
+  
+| 날짜  | 문제이름  | 언어 | 풀이  or  출처 |
+| --- | --- | --- | --- |
+| 10/01 |  오큰수  | Python  |  [백준 17298번](https://www.acmicpc.net/problem/17298) |
+|       |  최솟값 찾기  | Python  |  [백준 11003번](https://www.acmicpc.net/problem/11003) |
+|       |  최솟값 찾기  | Java  |  [백준 11003번](https://www.acmicpc.net/problem/11003) |
+  
+</details>

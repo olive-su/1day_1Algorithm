@@ -476,5 +476,7 @@
 | 10/01 |  오큰수  | Python  |  [백준 17298번](https://www.acmicpc.net/problem/17298) |
 |       |  최솟값 찾기  | Python  |  [백준 11003번](https://www.acmicpc.net/problem/11003) |
 |       |  최솟값 찾기  | Java  |  [백준 11003번](https://www.acmicpc.net/problem/11003) |
+| 10/02 |  수 정렬하기  | Python  |  [백준 2750번](https://www.acmicpc.net/problem/2750) |
+|       |  수 정렬하기  | Java  |  [백준 2750번](https://www.acmicpc.net/problem/2750) |
   
 </details>

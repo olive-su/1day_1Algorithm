@@ -478,5 +478,13 @@
 |       |  최솟값 찾기  | Java  |  [백준 11003번](https://www.acmicpc.net/problem/11003) |
 | 10/02 |  수 정렬하기  | Python  |  [백준 2750번](https://www.acmicpc.net/problem/2750) |
 |       |  수 정렬하기  | Java  |  [백준 2750번](https://www.acmicpc.net/problem/2750) |
+| 10/06 |  ATM  | Python  |  [백준 11399번](https://www.acmicpc.net/problem/11399) |
+|       |  ATM  | Java  |  [백준 11399번](https://www.acmicpc.net/problem/11399) |
+|       |  K번째 수  | Python  |  [백준 11004번](https://www.acmicpc.net/problem/11004) |
+|       |  K번째 수  | Java  |  [백준 11004번](https://www.acmicpc.net/problem/11004) |
+|       |  버블 소트  | Python  |  [백준 1377번](https://www.acmicpc.net/problem/1377) |
+|       |  버블 소트  | Java  |  [백준 1377번](https://www.acmicpc.net/problem/1377) |
+|       |  소트인사이드  | Python  |  [백준 1427번](https://www.acmicpc.net/problem/1427) |
+|       |  소트인사이드  | Java  |  [백준 1427번](https://www.acmicpc.net/problem/1427) |
   
 </details>

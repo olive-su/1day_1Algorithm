@@ -486,5 +486,6 @@
 |       |  버블 소트  | Java  |  [백준 1377번](https://www.acmicpc.net/problem/1377) |
 |       |  소트인사이드  | Python  |  [백준 1427번](https://www.acmicpc.net/problem/1427) |
 |       |  소트인사이드  | Java  |  [백준 1427번](https://www.acmicpc.net/problem/1427) |
+| 10/12 |  연결 요소의 개수  | Python  |  [백준 11724번](https://www.acmicpc.net/problem/11724) |
   
 </details>

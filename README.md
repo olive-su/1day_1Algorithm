@@ -487,5 +487,8 @@
 |       |  소트인사이드  | Python  |  [백준 1427번](https://www.acmicpc.net/problem/1427) |
 |       |  소트인사이드  | Java  |  [백준 1427번](https://www.acmicpc.net/problem/1427) |
 | 10/12 |  연결 요소의 개수  | Python  |  [백준 11724번](https://www.acmicpc.net/problem/11724) |
+| 10/13 |  신기한 소수  | Python  |  [백준 2023번](https://www.acmicpc.net/problem/2023) |
+|       |  연결 요소의 개수  | Python  |  [백준 11724번](https://www.acmicpc.net/problem/11724) |
+|       |  DFS와 BFS  | Python  |  [백준 1260번](https://www.acmicpc.net/problem/1260) |
   
 </details>

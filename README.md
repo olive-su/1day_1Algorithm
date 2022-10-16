@@ -490,5 +490,11 @@
 | 10/13 |  신기한 소수  | Python  |  [백준 2023번](https://www.acmicpc.net/problem/2023) |
 |       |  연결 요소의 개수  | Python  |  [백준 11724번](https://www.acmicpc.net/problem/11724) |
 |       |  DFS와 BFS  | Python  |  [백준 1260번](https://www.acmicpc.net/problem/1260) |
+| 10/15 |  미로 탐색  | Python  |  [백준 2178번](https://www.acmicpc.net/problem/2178) |
+|       |  미로 탐색  | Java  |  [백준 2178번](https://www.acmicpc.net/problem/2178) |
+|       |  트리의 지름  | Python  |  [백준 1167번](https://www.acmicpc.net/problem/1167) |
+|       |  트리의 지름  | Java  |  [백준 1167번](https://www.acmicpc.net/problem/1167) |
+| 10/16 |  수 찾기  | Python  |  [백준 1920번](https://www.acmicpc.net/problem/1920) |
+|       |  수 찾기  | Java  |  [백준 1920번](https://www.acmicpc.net/problem/1920) |
   
 </details>

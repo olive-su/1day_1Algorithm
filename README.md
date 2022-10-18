@@ -496,5 +496,12 @@
 |       |  트리의 지름  | Java  |  [백준 1167번](https://www.acmicpc.net/problem/1167) |
 | 10/16 |  수 찾기  | Python  |  [백준 1920번](https://www.acmicpc.net/problem/1920) |
 |       |  수 찾기  | Java  |  [백준 1920번](https://www.acmicpc.net/problem/1920) |
+| 10/17 |  기타 레슨  | Python  |  [백준 2343번](https://www.acmicpc.net/problem/2343) |
+|       |  기타 레슨  | Java  |  [백준 2343번](https://www.acmicpc.net/problem/2343) |
+| 10/18 |  샘터  | Python  |  [백준 18513번](https://www.acmicpc.net/problem/18513) |
+|       |  샘터  | Java  |  [백준 18513번](https://www.acmicpc.net/problem/18513) |
+|       |  카드 정렬하기  | Python  |  [백준 1715번](https://www.acmicpc.net/problem/1715) |
+|       |  카드 정렬하기  | Java  |  [백준 1715번](https://www.acmicpc.net/problem/1715) |
+|       |  동전 0  | Java  |  [백준 11047번](https://www.acmicpc.net/problem/11047) |
   
 </details>

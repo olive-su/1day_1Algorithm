@@ -503,5 +503,9 @@
 |       |  카드 정렬하기  | Python  |  [백준 1715번](https://www.acmicpc.net/problem/1715) |
 |       |  카드 정렬하기  | Java  |  [백준 1715번](https://www.acmicpc.net/problem/1715) |
 |       |  동전 0  | Java  |  [백준 11047번](https://www.acmicpc.net/problem/11047) |
+| 10/20 |  수 묶기  | Python  |  [백준 1744번](https://www.acmicpc.net/problem/1744) |
+|       |  수 묶기  | Java  |  [백준 1744번](https://www.acmicpc.net/problem/1744) |
+| 10/21 |  잃어버린 괄호  | Java  |  [백준 1541번](https://www.acmicpc.net/problem/1541) |
+|       |  회의실 배정  | Java  |  [백준 1931번](https://www.acmicpc.net/problem/1931) |
   
 </details>

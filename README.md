@@ -507,5 +507,10 @@
 |       |  수 묶기  | Java  |  [백준 1744번](https://www.acmicpc.net/problem/1744) |
 | 10/21 |  잃어버린 괄호  | Java  |  [백준 1541번](https://www.acmicpc.net/problem/1541) |
 |       |  회의실 배정  | Java  |  [백준 1931번](https://www.acmicpc.net/problem/1931) |
+| 10/22 |  소수 구하기  | Java  |  [백준 1929번](https://www.acmicpc.net/problem/1929) |
+|       |  거의 소수  | Python  |  [백준 1456번](https://www.acmicpc.net/problem/1456) |
+|       |  거의 소수  | Java  |  [백준 1456번](https://www.acmicpc.net/problem/1456) |
+|       |  소수&팰린드롬  | Python  |  [백준 1747번](https://www.acmicpc.net/problem/1747) |
+|       |  소수&팰린드롬  | Java  |  [백준 1747번](https://www.acmicpc.net/problem/1747) |
   
 </details>

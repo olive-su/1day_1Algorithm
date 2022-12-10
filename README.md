@@ -398,7 +398,7 @@
 | 06/12 |  저울  | Python  |   [백준 10159번](https://www.acmicpc.net/problem/10159)  |
 | 06/13 |  택배  | Python  |   [백준 5972번](https://www.acmicpc.net/problem/5972)  |
 | 06/14 |  로또  | Python  |   [백준 6603번](https://www.acmicpc.net/problem/6603)  |
-| 06/15 |  절댓값 힙  | Python  |   [백준 11286번](https://www.acmicpc.net/problem/11286)  |
+| 06/15 |  절댓값 힙  | Python  |   [**백준** 11286번](https://www.acmicpc.net/problem/11286)  |
 | 06/16 |  동물원  | Python  |   [백준 1309번](https://www.acmicpc.net/problem/1309)  |
 | 06/17 |  부분수열의 합  | Python  |   [백준 1182번](https://www.acmicpc.net/problem/1182)  |
 | 06/18 |  궁금한 민호  | Python  |   [백준 1507번](https://www.acmicpc.net/problem/1507)  |
@@ -513,4 +513,22 @@
 |       |  소수&팰린드롬  | Python  |  [백준 1747번](https://www.acmicpc.net/problem/1747) |
 |       |  소수&팰린드롬  | Java  |  [백준 1747번](https://www.acmicpc.net/problem/1747) |
   
+</details>
+
+<details>
+<summary> 📝 2022년 11월) Problem Solving  </summary>
+  
+| 날짜  | 문제이름  | 언어 | 풀이  or  출처 |
+| --- | --- | --- | --- |
+| 11/02 |  전력망을 둘로 나누기  | Java  |  [프로그래머스 전력망을 둘로 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/86971) |
+| 11/03 | h_index | Java | [프로그래머스 h-index](https://school.programmers.co.kr/learn/courses/30/lessons/42747) |
+</details>
+
+<details>
+<summary> 📝 2022년 12월) Problem Solving  </summary>
+  
+| 날짜  | 문제이름  | 언어 | 풀이  or  출처 |
+| --- | --- | --- | --- |
+| 12/05 |  전쟁 전투  | Python  |  [백준 1303번](https://www.acmicpc.net/problem/1303) |
+| 12/10 | 게임 개발 | Python | [백준 1516번](https://www.acmicpc.net/problem/1516) |
 </details>

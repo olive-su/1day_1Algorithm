@@ -534,4 +534,5 @@
 | 12/13 | 최종 순위 | Python | [백준 3665번](https://www.acmicpc.net/problem/3665) |
 | 12/23 | 전자레인지 | Python | [백준 10162번](https://www.acmicpc.net/problem/10162) |
 | 12/24 | 문제집 | Python | [백준 1766번](https://www.acmicpc.net/problem/1766) |
+| 12/25 | 이모티콘 | Python | [백준 14226번](https://www.acmicpc.net/problem/14226) |
 </details>

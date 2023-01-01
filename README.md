@@ -536,3 +536,11 @@
 | 12/24 | 문제집 | Python | [백준 1766번](https://www.acmicpc.net/problem/1766) |
 | 12/25 | 이모티콘 | Python | [백준 14226번](https://www.acmicpc.net/problem/14226) |
 </details>
+
+<details>
+<summary> 📝 2023년 1월) Problem Solving  </summary>
+  
+| 날짜  | 문제이름  | 언어 | 풀이  or  출처 |
+| --- | --- | --- | --- |
+| 01/01 |  음악프로그램  | Python  |  [백준 2623](https://www.acmicpc.net/problem/2623) |
+</details>

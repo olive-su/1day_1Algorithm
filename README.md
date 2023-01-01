@@ -543,4 +543,5 @@
 | 날짜  | 문제이름  | 언어 | 풀이  or  출처 |
 | --- | --- | --- | --- |
 | 01/01 |  음악프로그램  | Python  |  [백준 2623](https://www.acmicpc.net/problem/2623) |
+| 01/02 |  계보 복원가 호석  | Python  |  [백준 21276](https://www.acmicpc.net/problem/21276) |
 </details>

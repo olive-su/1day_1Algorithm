@@ -544,4 +544,5 @@
 | --- | --- | --- | --- |
 | 01/01 |  음악프로그램  | Python  |  [백준 2623](https://www.acmicpc.net/problem/2623) |
 | 01/02 |  계보 복원가 호석  | Python  |  [백준 21276](https://www.acmicpc.net/problem/21276) |
+| 01/03 |  알고스팟  | Python  |  [백준 1261](https://www.acmicpc.net/problem/1261) |
 </details>

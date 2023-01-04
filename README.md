@@ -546,4 +546,5 @@
 | 01/02 |  계보 복원가 호석  | Python  |  [백준 21276](https://www.acmicpc.net/problem/21276) |
 | 01/03 |  알고스팟  | Python  |  [백준 1261](https://www.acmicpc.net/problem/1261) |
 | 01/04 |  트리의 지름  | Python  |  [백준 1967](https://www.acmicpc.net/problem/1967) |
+| 01/05 |  소인수분해  | Python  |  [백준 11653](https://www.acmicpc.net/problem/11653) |
 </details>

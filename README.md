@@ -549,5 +549,6 @@
 | 01/05 |  소인수분해  | Python  |  [백준 11653](https://www.acmicpc.net/problem/11653) |
 | 01/06 |  소수 경로  | Python  |  [백준 1963](https://www.acmicpc.net/problem/1963) |
 | 01/08 |  숫자세는 양(Large)  | Python  |  [백준 14382](https://www.acmicpc.net/problem/14382) |
-| 01/09 |  Tidy Numbers (Large)  | Python  |  [백준 14791](https://www.acmicpc.net/problem/14791) |
+| 01/09 |  Tidy Numbers(Large)  | Python  |  [백준 14791](https://www.acmicpc.net/problem/14791) |
+| 01/10 |  치킨 배달  | Python  |  [백준 15686](https://www.acmicpc.net/problem/15686) |
 </details>

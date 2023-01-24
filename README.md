@@ -551,4 +551,10 @@
 | 01/08 |  숫자세는 양(Large)  | Python  |  [백준 14382](https://www.acmicpc.net/problem/14382) |
 | 01/09 |  Tidy Numbers(Large)  | Python  |  [백준 14791](https://www.acmicpc.net/problem/14791) |
 | 01/10 |  치킨 배달  | Python  |  [백준 15686](https://www.acmicpc.net/problem/15686) |
+| 01/21 |  별 찍기 10  | Python  |  [백준 2447](https://www.acmicpc.net/problem/2447) |
+| 01/24 |  8진수, 10진수, 16진수  | Python  |  [백준 11816](https://www.acmicpc.net/problem/11816) |
+|       |  선수과목  | Python  |  [백준 14567](https://www.acmicpc.net/problem/14567) |
+|       |  운동  | Python  |  [백준 1956](https://www.acmicpc.net/problem/1956) |
+|       |  플로이드 2  | Python  |  [백준 11780](https://www.acmicpc.net/problem/11780) |
+|       |  히든 넘버  | Python  |  [백준 8595](https://www.acmicpc.net/problem/8595) |
 </details>

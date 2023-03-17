@@ -558,3 +558,15 @@
 |       |  플로이드 2  | Python  |  [백준 11780](https://www.acmicpc.net/problem/11780) |
 |       |  히든 넘버  | Python  |  [백준 8595](https://www.acmicpc.net/problem/8595) |
 </details>
+
+<details>
+<summary> 📝 2023년 2월) Problem Solving  </summary>
+  
+| 날짜  | 문제이름  | 언어 | 풀이  or  출처 |
+| --- | --- | --- | --- |
+| 02/06 |  오등큰수  | Python  |  [백준 17299](https://www.acmicpc.net/problem/17299) |
+| 02/11 |  개똥벌레  | Python  |  [백준 3020](https://www.acmicpc.net/problem/3020) |
+| 02/13 |  톱니바퀴  | Python  |  [백준 14891](https://www.acmicpc.net/problem/14891) |
+| 02/15 |  약수  | Python  |  [백준 1037](https://www.acmicpc.net/problem/1037) |
+
+</details>

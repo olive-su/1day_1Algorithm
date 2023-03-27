@@ -577,5 +577,9 @@
 | 날짜  | 문제이름  | 언어 | 풀이  or  출처 |
 | --- | --- | --- | --- |
 | 03/17 |  알파벳  | Python  |  [백준 1987](https://www.acmicpc.net/problem/1987) |
+| 03/18 |  보석 상자  | Python  |  [백준 2792](https://www.acmicpc.net/problem/2792) |
+| 03/22 |  작업  | Python  |  [백준 2056](https://www.acmicpc.net/problem/2056) |
+| 03/26 |  제곱 ㄴㄴ 수  | Python  |  [백준 1016](https://www.acmicpc.net/problem/1016) |
+| 03/27 |  GCD(N, K) = 1  | Python  |  [백준 11689](https://www.acmicpc.net/problem/11689) |
 
 </details>

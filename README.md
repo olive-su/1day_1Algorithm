@@ -581,5 +581,6 @@
 | 03/22 |  작업  | Python  |  [백준 2056](https://www.acmicpc.net/problem/2056) |
 | 03/26 |  제곱 ㄴㄴ 수  | Python  |  [백준 1016](https://www.acmicpc.net/problem/1016) |
 | 03/27 |  GCD(N, K) = 1  | Python  |  [백준 11689](https://www.acmicpc.net/problem/11689) |
+| 03/28 |  골드바흐 파티션  | Python  |  [백준 17103](https://www.acmicpc.net/problem/17103) |
 
 </details>

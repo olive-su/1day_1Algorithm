@@ -582,5 +582,6 @@
 | 03/26 |  제곱 ㄴㄴ 수  | Python  |  [백준 1016](https://www.acmicpc.net/problem/1016) |
 | 03/27 |  GCD(N, K) = 1  | Python  |  [백준 11689](https://www.acmicpc.net/problem/11689) |
 | 03/28 |  골드바흐 파티션  | Python  |  [백준 17103](https://www.acmicpc.net/problem/17103) |
+| 03/29 |  영역 구하기  | Python  |  [백준 2583](https://www.acmicpc.net/problem/2583) |
 
 </details>

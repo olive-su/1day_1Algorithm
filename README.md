@@ -586,3 +586,12 @@
 | 03/30 |  직사각형 탈출  | Python  |  [백준 16973](https://www.acmicpc.net/problem/16973) |
 
 </details>
+
+<details>
+<summary> 📝 2023년 4월) Problem Solving  </summary>
+  
+| 날짜  | 문제이름  | 언어 | 풀이  or  출처 |
+| --- | --- | --- | --- |
+| 04/10 |  두 큐 합 같게 만들기  | Python  |  [프로그래머스 두 큐 합 같게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667) |
+
+</details>

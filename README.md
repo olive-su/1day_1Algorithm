@@ -594,5 +594,6 @@
 | --- | --- | --- | --- |
 | 04/10 |  두 큐 합 같게 만들기  | Python  |  [프로그래머스 두 큐 합 같게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667) |
 | 04/12 |  감시 피하기  | Python  |  [백준 18428](https://www.acmicpc.net/problem/18428) |
+| 04/13 |  이모티콘 할인행사  | Python  |  [프로그래머스 이모티콘 할인행사](https://school.programmers.co.kr/learn/courses/30/lessons/150368) |
 
 </details>

@@ -398,7 +398,7 @@
 | 06/12 |  저울  | Python  |   [백준 10159번](https://www.acmicpc.net/problem/10159)  |
 | 06/13 |  택배  | Python  |   [백준 5972번](https://www.acmicpc.net/problem/5972)  |
 | 06/14 |  로또  | Python  |   [백준 6603번](https://www.acmicpc.net/problem/6603)  |
-| 06/15 |  절댓값 힙  | Python  |   [**백준** 11286번](https://www.acmicpc.net/problem/11286)  |
+| 06/15 |  절댓값 힙  | Python  |   [백준 11286번](https://www.acmicpc.net/problem/11286)  |
 | 06/16 |  동물원  | Python  |   [백준 1309번](https://www.acmicpc.net/problem/1309)  |
 | 06/17 |  부분수열의 합  | Python  |   [백준 1182번](https://www.acmicpc.net/problem/1182)  |
 | 06/18 |  궁금한 민호  | Python  |   [백준 1507번](https://www.acmicpc.net/problem/1507)  |
@@ -595,6 +595,14 @@
 | 04/10 |  두 큐 합 같게 만들기  | Python  |  [프로그래머스 두 큐 합 같게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667) |
 | 04/12 |  감시 피하기  | Python  |  [백준 18428](https://www.acmicpc.net/problem/18428) |
 | 04/13 |  이모티콘 할인행사  | Python  |  [프로그래머스 이모티콘 할인행사](https://school.programmers.co.kr/learn/courses/30/lessons/150368) |
-| 04/13 |  구슬 탈출 2  | Python  | [백준 13460](https://www.acmicpc.net/problem/13460) |
+| 04/19 |  구슬 탈출 2  | Python  | [백준 13460](https://www.acmicpc.net/problem/13460) |
+| 04/20 | Ignition  | Python  | [백준 13141](https://www.acmicpc.net/problem/13141) |
+| 04/21 |  선수과목  | Python  | [백준 14567](https://www.acmicpc.net/problem/14567) |
+| 04/22 |  ACM Craft  | Python  | [백준 1005](https://www.acmicpc.net/problem/1005) |
+| 04/23 |  세 개의 소수 문제  | Python  | [백준 11502](https://www.acmicpc.net/problem/11502) |
+| 04/24 |  DFS와 BFS  | Python  | [백준 1260](https://www.acmicpc.net/problem/1260) |
+| 04/25 |  쇠막대기  | Java  | [백준 10799](https://www.acmicpc.net/problem/10799) |
+| 04/26 |  쇠막대기  | Python  | [백준 10799](https://www.acmicpc.net/problem/10799) |
+| 04/27 |  점프와 순간 이동  | Java  | [프로그래머스 점프와 순간 이동](https://school.programmers.co.kr/learn/courses/30/lessons/12980) |
 
 </details>

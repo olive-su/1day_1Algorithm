@@ -614,6 +614,9 @@
   
 | 날짜  | 문제이름  | 언어 | 풀이  or  출처 |
 | --- | --- | --- | --- |
-| 05/01 |  특정 거리의 도시 찾기  | Python  |  [백준 18352](https://www.acmicpc.net/problem/18352) |
+| 05/01 |  특정 거리의 도시 찾기  | Java  |  [백준 18352](https://www.acmicpc.net/problem/18352) |
+| 05/02 |  짝지어 제거하기  | Java  |  [프로그래머스 짝지어 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12973) |
+| 05/03 |  방문길이  | Java  |  [프로그래머스 방문길이](https://school.programmers.co.kr/learn/courses/30/lessons/49994) |
+|       |  효율적인 해킹  | Java  |  [백준 1325](https://www.acmicpc.net/problem/1325) |
 
 </details>

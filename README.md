@@ -618,5 +618,13 @@
 | 05/02 |  짝지어 제거하기  | Java  |  [프로그래머스 짝지어 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12973) |
 | 05/03 |  방문길이  | Java  |  [프로그래머스 방문길이](https://school.programmers.co.kr/learn/courses/30/lessons/49994) |
 |       |  효율적인 해킹  | Java  |  [백준 1325](https://www.acmicpc.net/problem/1325) |
+| 05/04 |  숫자의 표현  | Java  |  [프로그래머스 숫자의 표현](https://school.programmers.co.kr/learn/courses/30/lessons/12924) |
+|       |  이진 변환 반복하기  | Java  |  [프로그래머스 이진 변환 반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129) |
+| 05/05 |  게임 맵 최단 거리  | Java  |  [프로그래머스 게임 맵 최단 거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844) |
+|       |  단어 변환  | Java  |  [프로그래머스 단어 변환](https://school.programmers.co.kr/learn/courses/30/lessons/43163) |
+|       |  대충 만든 자판  | Java  |  [프로그래머스 대충 만든 자판](https://school.programmers.co.kr/learn/courses/30/lessons/160586) |
+|       |  바탕화면 정리  | Java  |  [프로그래머스 바탕화면 정리](https://school.programmers.co.kr/learn/courses/30/lessons/161990) |
+|       |  n^2 배열 자르기  | Java  |  [프로그래머스 n^2 배열 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/87390) |
+|       |  큰 수 만들기  | Java  |  [프로그래머스 큰 수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/42883) |
 
 </details>

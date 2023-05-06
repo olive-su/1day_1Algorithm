@@ -626,5 +626,10 @@
 |       |  바탕화면 정리  | Java  |  [프로그래머스 바탕화면 정리](https://school.programmers.co.kr/learn/courses/30/lessons/161990) |
 |       |  n^2 배열 자르기  | Java  |  [프로그래머스 n^2 배열 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/87390) |
 |       |  큰 수 만들기  | Java  |  [프로그래머스 큰 수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/42883) |
+|       |  테이블 해시 함수  | Java  |  [프로그래머스 테이블 해시 함수](https://school.programmers.co.kr/learn/courses/30/lessons/147354) |
+| 05/06 |  쿼드압축 후 개수 세기  | Java  |  [프로그래머스 쿼드압축 후 개수 세기](https://school.programmers.co.kr/learn/courses/30/lessons/68936) |
+|       |  테이블 해시 함수  | Java  |  [프로그래머스 테이블 해시 함수](https://school.programmers.co.kr/learn/courses/30/lessons/147354) |
+|       |  호텔 대실  | Java  |  [프로그래머스 호텔 대실](https://school.programmers.co.kr/learn/courses/30/lessons/155651) |
+|       |  멀리 뛰기  | Java  |  [프로그래머스 멀리 뛰기](https://school.programmers.co.kr/learn/courses/30/lessons/12914) |
 
 </details>

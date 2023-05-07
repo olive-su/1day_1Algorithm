@@ -631,5 +631,6 @@
 |       |  테이블 해시 함수  | Java  |  [프로그래머스 테이블 해시 함수](https://school.programmers.co.kr/learn/courses/30/lessons/147354) |
 |       |  호텔 대실  | Java  |  [프로그래머스 호텔 대실](https://school.programmers.co.kr/learn/courses/30/lessons/155651) |
 |       |  멀리 뛰기  | Java  |  [프로그래머스 멀리 뛰기](https://school.programmers.co.kr/learn/courses/30/lessons/12914) |
+| 05/07 |  최단경로  | Java  |  [백준 1753](https://www.acmicpc.net/problem/1753) |
 
 </details>

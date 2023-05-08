@@ -632,5 +632,6 @@
 |       |  호텔 대실  | Java  |  [프로그래머스 호텔 대실](https://school.programmers.co.kr/learn/courses/30/lessons/155651) |
 |       |  멀리 뛰기  | Java  |  [프로그래머스 멀리 뛰기](https://school.programmers.co.kr/learn/courses/30/lessons/12914) |
 | 05/07 |  최단경로  | Java  |  [백준 1753](https://www.acmicpc.net/problem/1753) |
+| 05/08 |  숨바꼭질 3  | Python  |  [백준 13549](https://www.acmicpc.net/problem/13549) |
 
 </details>

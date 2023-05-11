@@ -633,5 +633,8 @@
 |       |  멀리 뛰기  | Java  |  [프로그래머스 멀리 뛰기](https://school.programmers.co.kr/learn/courses/30/lessons/12914) |
 | 05/07 |  최단경로  | Java  |  [백준 1753](https://www.acmicpc.net/problem/1753) |
 | 05/08 |  숨바꼭질 3  | Python  |  [백준 13549](https://www.acmicpc.net/problem/13549) |
+| 05/09 |  집합의 표현  | Java  |  [백준 1717](https://www.acmicpc.net/problem/1717) |
+| 05/10 |  여행 가자  | Java  |  [백준 1976](https://www.acmicpc.net/problem/1976) |
+| 05/11 |  최소비용 구하기  | Java  |  [백준 1916](https://www.acmicpc.net/problem/1916) |
 
 </details>

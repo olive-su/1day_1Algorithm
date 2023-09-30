@@ -636,5 +636,15 @@
 | 05/09 |  집합의 표현  | Java  |  [백준 1717](https://www.acmicpc.net/problem/1717) |
 | 05/10 |  여행 가자  | Java  |  [백준 1976](https://www.acmicpc.net/problem/1976) |
 | 05/11 |  최소비용 구하기  | Java  |  [백준 1916](https://www.acmicpc.net/problem/1916) |
+| 05/12 |  k번째 최단경로 찾기  | Java  |  [백준 1854](https://www.acmicpc.net/problem/1854) |
 
+</details>
+
+<details>
+<summary> 📝 2023년 9월) Problem Solving </summary>
+| 날짜  | 문제이름  | 언어 | 풀이  or  출처 |
+| --- | --- | --- | --- |
+| 09/23 |  카드 섞기  | Python  |  [백준 1091](https://www.acmicpc.net/problem/1091) |
+| 09/29 |  기타리스트  | Python  |  [백준 1495](https://www.acmicpc.net/problem/1495) |
+| 09/30 |  미세먼지 안녕  | Python  |  [백준 17144](https://www.acmicpc.net/problem/17144) |
 </details>

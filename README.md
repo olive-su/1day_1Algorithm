@@ -648,3 +648,10 @@
 | 09/29 |  기타리스트  | Python  |  [백준 1495](https://www.acmicpc.net/problem/1495) |
 | 09/30 |  미세먼지 안녕  | Python  |  [백준 17144](https://www.acmicpc.net/problem/17144) |
 </details>
+
+<details>
+<summary> 📝 2023년 10월) Problem Solving </summary>
+| 날짜  | 문제이름  | 언어 | 풀이  or  출처 |
+| --- | --- | --- | --- |
+| 10/03 |  ZOAC  | Python  |  [백준 16719](https://www.acmicpc.net/problem/16719) |
+</details>

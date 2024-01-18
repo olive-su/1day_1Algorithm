@@ -642,16 +642,33 @@
 
 <details>
 <summary> 📝 2023년 9월) Problem Solving </summary>
-| 날짜  | 문제이름  | 언어 | 풀이  or  출처 |
-| --- | --- | --- | --- |
-| 09/23 |  카드 섞기  | Python  |  [백준 1091](https://www.acmicpc.net/problem/1091) |
-| 09/29 |  기타리스트  | Python  |  [백준 1495](https://www.acmicpc.net/problem/1495) |
-| 09/30 |  미세먼지 안녕  | Python  |  [백준 17144](https://www.acmicpc.net/problem/17144) |
+
+| 날짜  | 문제이름      | 언어   | 풀이 or 출처                                        |
+| ----- | ------------- | ------ | --------------------------------------------------- |
+| 09/23 | 카드 섞기     | Python | [백준 1091](https://www.acmicpc.net/problem/1091)   |
+| 09/29 | 기타리스트    | Python | [백준 1495](https://www.acmicpc.net/problem/1495)   |
+| 09/30 | 미세먼지 안녕 | Python | [백준 17144](https://www.acmicpc.net/problem/17144) |
+
 </details>
 
 <details>
 <summary> 📝 2023년 10월) Problem Solving </summary>
-| 날짜  | 문제이름  | 언어 | 풀이  or  출처 |
-| --- | --- | --- | --- |
-| 10/03 |  ZOAC  | Python  |  [백준 16719](https://www.acmicpc.net/problem/16719) |
+
+| 날짜  | 문제이름 | 언어   | 풀이 or 출처                                        |
+| ----- | -------- | ------ | --------------------------------------------------- |
+| 10/03 | ZOAC     | Python | [백준 16719](https://www.acmicpc.net/problem/16719) |
+
+</details>
+
+<details>
+<summary> 📝 2024년 01월) Problem Solving </summary>
+
+| 날짜  | 문제이름      | 언어   | 풀이 or 출처                                                                                |
+| ----- | ------------- | ------ | ------------------------------------------------------------------------------------------- |
+| 01/09 | 스킬트리      | Python | [프로그래머스 스킬트리](https://school.programmers.co.kr/learn/courses/30/lessons/49993)    |
+| 01/10 | 페그 솔리테어 | Python | [백준 9207](https://www.acmicpc.net/problem/9207)                                           |
+| 01/11 | 카드 섞기     | Python | [백준 21315](https://www.acmicpc.net/problem/21315)                                         |
+| 01/12 | 작업          | Python | [백준 2056](https://www.acmicpc.net/problem/2056)                                           |
+| 01/13 | 아이템 줍기   | Python | [프로그래머스 아이템 줍기](https://school.programmers.co.kr/learn/courses/30/lessons/87694) |
+
 </details>

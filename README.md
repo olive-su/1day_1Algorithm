@@ -661,7 +661,7 @@
 </details>
 
 <details>
-<summary> 📝 2024년 01월) Problem Solving </summary>
+<summary> 📝 2024년 1월) Problem Solving </summary>
 
 | 날짜  | 문제이름      | 언어   | 풀이 or 출처                                                                                |
 | ----- | ------------- | ------ | ------------------------------------------------------------------------------------------- |
@@ -670,5 +670,8 @@
 | 01/11 | 카드 섞기     | Python | [백준 21315](https://www.acmicpc.net/problem/21315)                                         |
 | 01/12 | 작업          | Python | [백준 2056](https://www.acmicpc.net/problem/2056)                                           |
 | 01/13 | 아이템 줍기   | Python | [프로그래머스 아이템 줍기](https://school.programmers.co.kr/learn/courses/30/lessons/87694) |
+| 01/18 | 연속합\_2     | Python | [백준 13398](https://www.acmicpc.net/problem/13398)                                         |
+| 01/22 | 등굣길        | Python | [프로그래머스 등굣길](https://school.programmers.co.kr/learn/courses/30/lessons/42898)      |
+|       | 등굣길        | Java   | [프로그래머스 등굣길](https://school.programmers.co.kr/learn/courses/30/lessons/42898)      |
 
 </details>
